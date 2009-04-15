@@ -1,0 +1,8 @@
+<div class="sidebar-node">
+  <h3>Ostatnie artykuły</h3>
+  {% for post in site.posts %}
+  <ul class="dates">
+    <li><a href="{{ post.url }}"><span class="date">{{ post.date | date: '%d.%m' }}</span> {{ post.title }}</a></li>
+  </ul>
+  {% endfor %}
+</div>

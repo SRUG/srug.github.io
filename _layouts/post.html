@@ -24,24 +24,24 @@
                 <div class="post">
                   <div class="post-title">
                     <h1>
-                      <a href="/2008/11/04/pierwsze-spotkanie-refleksje.html" title="Pierwsze spotkanie - refleksje">
-                        Pierwsze spotkanie - refleksje
+                      <a href="{{ page.url }}" title="{{ page.title }}">
+                        {{ page.title }}
                       </a>
                     </h1>
                   </div>
-                  <p class="auth">dodał Wojtek,
-                    <em>Nov
+                  <p class="auth">dodał {{ page.author }},
+                    <em>{{ page.date | date: '%b' }}
                       <span>
-                        04
+                        {{ page.date | date: '%d' }}
                       </span>
                     </em>
                     dnia
                     <span class="typo_date">
-                      04/11/2008
+                      {{ page.date | date: '%d/%m/%Y' }}
                     </span>
                   </p>
                   <div class="post-body">
-                    <p>Zachęchamy do podzielenia się własnymi refleksjami — jakie tematy byłyby dla Was interesujące na kolejnych spotkaniach, o czym chielibyście usłyszeć, co było dla Was niezrozumiałe na dzisiejszejszej prezentacji? Komentujcie, <a href="mailto:spotkania@srug.pl">piszcie do nas</a>. Zamieszczamy plik z wyświetlonej dzisiaj <a href="/assets/srug1.pdf">prezentacji</a>.</p>
+                    {{ content }}
                   </div>
                 </div>
                 <div class="clear">
@@ -51,35 +51,7 @@
             <div id="subcol">
               <div class="bt"><div></div></div>
               <div id="sc2">
-                <div class="sidebar-node">
-  <h3>Ostatnie artykuły</h3>
-  
-  <ul class="dates">
-    <li><a href="/2009/04/14/trzecie-spotkanie.html"><span class="date">14.04</span> Trzecie spotkanie</a></li>
-  </ul>
-  
-  <ul class="dates">
-    <li><a href="/2008/12/15/tworz-z-nami-aplikacje.html"><span class="date">15.12</span> Twórz z nami aplikację</a></li>
-  </ul>
-  
-  <ul class="dates">
-    <li><a href="/2008/12/09/drugie-spotkanie.html"><span class="date">09.12</span> Drugie spotkanie</a></li>
-  </ul>
-  
-  <ul class="dates">
-    <li><a href="/2008/11/04/pierwsze-spotkanie-refleksje.html"><span class="date">04.11</span> Pierwsze spotkanie - refleksje</a></li>
-  </ul>
-  
-  <ul class="dates">
-    <li><a href="/2008/10/28/pierwsze-spotkanie-szczegoly.html"><span class="date">28.10</span> Pierwsze spotkanie - szczegóły</a></li>
-  </ul>
-  
-  <ul class="dates">
-    <li><a href="/2008/10/21/pierwsze-spotkanie.html"><span class="date">21.10</span> Pierwsze spotkanie</a></li>
-  </ul>
-  
-</div>
-
+                {% include sidebar_posts.html %}
               </div>
             </div>
           </div>

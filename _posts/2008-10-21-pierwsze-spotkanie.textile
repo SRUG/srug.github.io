@@ -1,0 +1,15 @@
+---
+layout: post
+title: Pierwsze spotkanie
+author: Wojtek
+---
+
+h2. Witajcie!
+
+p. Powoli idea powstania śląskiej grupy sympatyków Rubiego nabiera kształtów, czego dowodem niech będzie ta strona.  Cały czas jesteśmy w trakcie przygotowania pierwszego spotkania, które najprawdopodobniej odbędzie się na początku listopada na "Politechnice Śląskiej w Gliwicach":http://www.polsl.pl/ (wydział "AEiI":http://aei.polsl.pl/).
+
+p. Na początku chcielibyśmy zachęcić tych wszystkich, którzy tylko słyszeli lub mieli niewielki kontakt z Rubim. Prezentacja będzie przedstawiać najmocniejsze cechy samego języka jak i obecnie jednego z najpopularniejszych frameworków webowych — Ruby on Rails. Mamy nadzieję, że również zainteresujemy osoby programujące w innych językach — PHP, Java, C♯, etc.  Oczywiście zapraszamy też wszystkich znających Rubiego, aby mogli się z nami podzielić swoimi doświadczeniami, szczególnie że po prezentacji możemy kontynuować spotkanie w swobodniejszej formie (przy muzyce i dobrym piwku), gdzie będzie czas na konstruktywną dyskusję.
+
+p. Wszelkie sugestie i uwagi na pewno przyczynią się do podwyższenia poziomu kolejnych spotkań, dlatego "piszcie do nas":mailto:spotkania@srug.pl ze wszystkimi pomysłami jakie przyjdą Wam do głowy.
+
+p. *Do zobaczenia wkrótce.*

@@ -1,0 +1,25 @@
+<div class="post">
+  <div class="post-title">
+    <h1>
+      <a href="{{ post.url }}" title="{{ post.title }}">
+        {{ post.title }}
+      </a>
+    </h1>
+  </div>
+  <p class="auth">dodał {{ post.author }},
+    <em>{{ post.date | date: '%b' }}
+      <span>
+        {{ post.date | date: '%d' }}
+      </span>
+    </em>
+    dnia
+    <span class="typo_date">
+      {{ post.date | date: '%d/%m/%Y' }}
+    </span>
+  </p>
+  <div class="post-body">
+    {{ post.content }}
+  </div>
+</div>
+<div class="clear">
+</div>

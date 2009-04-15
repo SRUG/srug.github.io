@@ -1,97 +1,27 @@
+---
+layout: nil
+---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2009-04-15T18:05:01+02:00</updated>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
- 
+ {% for post in site.posts %}
  <entry>
-   <title>Trzecie spotkanie</title>
-   <link href="http://srug.pl/2009/04/14/trzecie-spotkanie.html"/>
-   <updated>2009-04-14T00:00:00+02:00</updated>
-   <id>http://srug.pl/2009/04/14/trzecie-spotkanie</id>
-   <content type="html">&lt;h2&gt;Zapraszamy na trzecie spotkanie!&lt;/h2&gt;
-&lt;p&gt;Głównym tematem prezentacji będzie &lt;a href="http://en.wikipedia.org/wiki/Representational_State_Transfer"&gt;&lt;span class="caps"&gt;REST&lt;/span&gt;&lt;/a&gt;, Spotkanie poprowadzi Szymon Nowak, który dokładnie objaśni cechy oraz zalety, tworząc jednocześnie przykładową aplikację udostępniającą zasoby za pomocą wspomnianego wyżej &lt;span class="caps"&gt;REST&lt;/span&gt; oraz klienta korzystającego z tychże zasobów.&lt;/p&gt;
-&lt;p&gt;Pomimo, iż kodowanie będzie w języku Ruby, to tematyka jest na tyle uniwersalna, że może też zainteresować osoby nie znające tego języka.&lt;/p&gt;
-&lt;p&gt;Spotkanie odbędzie się w auli B wydziału AEiI (Gliwice) w poniedziałek (27.04) o godzinie 17.00.&lt;/p&gt;</content>
+   <title>{{ post.title }}</title>
+   <link href="http://srug.pl{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://srug.pl{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
- 
- <entry>
-   <title>Twórz z nami aplikację</title>
-   <link href="http://srug.pl/2008/12/15/tworz-z-nami-aplikacje.html"/>
-   <updated>2008-12-15T00:00:00+01:00</updated>
-   <id>http://srug.pl/2008/12/15/tworz-z-nami-aplikacje</id>
-   <content type="html">&lt;h2&gt;Wskazówki, jak zacząć.&lt;/h2&gt;
-&lt;p&gt;Zamieszczamy plik z dzisiejszej &lt;a href="/assets/srug2.pdf"&gt;prezentacji&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Za 3 najlepsze pomysły/rozwinięcia aplikacji przewidzieliśmy nagrody książkowe.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jeśli masz pomysł co do funkcjonalności, stwórz nowy ticket na &lt;a href="http://trix.lighthouseapp.com/projects/20503-movie-pole/overview"&gt;LightHouse&lt;/a&gt;. Jeśli chcesz rozbudować istniejącą aplikację, dołącz do nas. Poniżej krótko wyjaśniamy jak zrobić to najłatwiej.&lt;/p&gt;
-&lt;p&gt;Jeśli nie znasz gita i nie masz konta na githubie (warto się nim zainteresować — obecnie główny &lt;a href="http://pl.wikipedia.org/wiki/System_kontroli_wersji"&gt;system kontroli wersji&lt;/a&gt; aplikacji pisanych w RoR), możesz po prostu ściągnąć kod jako zwykły plik zip lub tar. &lt;a href="http://github.com/ncr/movie_pole/"&gt;Otwórz&lt;/a&gt; i kliknij na download. Jeśli chcesz się nauczyć obsługi gita, załóż konto na &lt;a href="https://github.com/signup/free"&gt;github&lt;/a&gt;, przy rejestracji podaj klucz &lt;span class="caps"&gt;SSH&lt;/span&gt;, instrukcję w jaki sposób go wygenerować w zależności od systemu operacyjnego, znajdziesz &lt;a href="http://github.com/guides/home"&gt;tutaj&lt;/a&gt;. Program obsługujący gita pod windowsem można pobrać &lt;a href="http://code.google.com/p/msysgit/"&gt;stąd&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Następnie masz dwie możliwości. Przy użyciu polecenia:&lt;br /&gt;
-&lt;code&gt;git clone git://github.com/ncr/movie_pole.git&lt;/code&gt;&lt;br /&gt;
-ściągasz aktualną wersję kodu na swój komputer, albo też najpierw „forkujesz” kod na własne konto githuba, po czym klonujesz go na swój komputer. Różnica polega na tym, że w pierwszym przypadku nie będziesz miał możliwości pchnięcia zmian kodu (bez wcześniejszej zgody właściciela), w drugim przypadku natomiast, możesz robić z repozytorium co Ci się podoba (to Twoja kopia) i po wprowadzeniu sensownych zmian zapytać o dołączenie tychże zmian do głównego kodu przy pomocy „pull request” dostępnego w &lt;span class="caps"&gt;GUI&lt;/span&gt; githuba.  Możesz również przesłać swoją wersję kodu na naszego &lt;a href="mailto:spotkania@srug.pl"&gt;maila&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Screencasty na temat gita można obejrzeć na stronie &lt;a href="http://www.gitcasts.com/"&gt;GitCasts&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Jeśli macie jakieś pytania, &lt;a href="mailto:spotkania@srug.pl"&gt;piszcie do nas&lt;/a&gt;.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Drugie spotkanie</title>
-   <link href="http://srug.pl/2008/12/09/drugie-spotkanie.html"/>
-   <updated>2008-12-09T00:00:00+01:00</updated>
-   <id>http://srug.pl/2008/12/09/drugie-spotkanie</id>
-   <content type="html">&lt;h2&gt;Zapraszamy na drugie spotkanie!&lt;/h2&gt;
-&lt;p&gt;Tym razem chcielibyśmy pokazać jak Ruby wygląda w akcji — na prezentacji będziemy realizować aplikację typu &lt;a href="http://pl.wikipedia.org/wiki/Mashup"&gt;mashup&lt;/a&gt;, która ma na celu ułatwić prozaiczne czynności powtarzane przez każdego z nas (oczywiście z tematyki internetowej).  Będziecie mieli okazję zobaczyć jak bardzo przyjemny i intuicyjny jest Ruby w praktyce: &lt;strong&gt;„Mniej kodowania — więcej czasu na życie”&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Spotkanie odbędzie się, tak jak poprzednio, w auli B wydziału AEiI wponiedziałek (15.12) o godzinie 16.30.&lt;/p&gt;
-&lt;h5 style="text-align:center;"&gt;&lt;a href="/assets/ruby_on_rails_2.pdf"&gt;&lt;img src="/assets/rails2.png" alt="" /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
- </entry>
- 
- <entry>
-   <title>Pierwsze spotkanie - refleksje</title>
-   <link href="http://srug.pl/2008/11/04/pierwsze-spotkanie-refleksje.html"/>
-   <updated>2008-11-04T00:00:00+01:00</updated>
-   <id>http://srug.pl/2008/11/04/pierwsze-spotkanie-refleksje</id>
-   <content type="html">&lt;p&gt;Zachęchamy do podzielenia się własnymi refleksjami — jakie tematy byłyby dla Was interesujące na kolejnych spotkaniach, o czym chielibyście usłyszeć, co było dla Was niezrozumiałe na dzisiejszejszej prezentacji? Komentujcie, &lt;a href="mailto:spotkania@srug.pl"&gt;piszcie do nas&lt;/a&gt;. Zamieszczamy plik z wyświetlonej dzisiaj &lt;a href="/assets/srug1.pdf"&gt;prezentacji&lt;/a&gt;.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Pierwsze spotkanie - szczegóły</title>
-   <link href="http://srug.pl/2008/10/28/pierwsze-spotkanie-szczegoly.html"/>
-   <updated>2008-10-28T00:00:00+01:00</updated>
-   <id>http://srug.pl/2008/10/28/pierwsze-spotkanie-szczegoly</id>
-   <content type="html">&lt;p&gt;Pierwsze spotkanie odbędzie się 3 listopada (poniedziałek) na wydziale AEiI Politechniki Śląskiej o godzinie 16.30 w auli B (parter). Zapraszamy wszystkich zainteresowanych, wstęp oczywiście bezpłatny. &lt;strong&gt;Wśród zapisanych uczestników zostaną rozlosowane upominki pod koniec prezentacji.&lt;/strong&gt;&lt;/p&gt;
-&lt;h5 style="text-align:center;"&gt;&lt;a href="/assets/ruby_on_rails_ver_2.pdf"&gt;&lt;img src="/assets/plakat_mini.png" alt="" /&gt;&lt;/a&gt;&lt;/h5&gt;
-&lt;p&gt;Krótkie streszczenie tematyki, która będzie poruszana:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Dlaczego web development?&lt;/li&gt;
-	&lt;li&gt;Dlaczego Ruby on Rails?&lt;/li&gt;
-	&lt;li&gt;Ruby &amp;#8211; opis najmocniejszych cech języka:&lt;br /&gt;
-   metaprogramowanie, domknięcia, otwarte klasy, monkey patching&lt;/li&gt;
-	&lt;li&gt;Przedstawienie architektury Ruby on Rails oraz omówienie głównych elementów&lt;/li&gt;
-	&lt;li&gt;Przykłady wdrożeń&lt;/li&gt;
-	&lt;li&gt;&lt;a href="http://pl.wikipedia.org/wiki/Rake"&gt;Rake&lt;/a&gt; (Ruby Make)&lt;/li&gt;
-	&lt;li&gt;&lt;a href="http://rspec.info/"&gt;RSpec&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;Przyszłość i rozwój języka Ruby&lt;/li&gt;
-	&lt;li&gt;Jak zacząć przygodę?&lt;/li&gt;
-&lt;/ul&gt;</content>
- </entry>
- 
- <entry>
-   <title>Pierwsze spotkanie</title>
-   <link href="http://srug.pl/2008/10/21/pierwsze-spotkanie.html"/>
-   <updated>2008-10-21T00:00:00+02:00</updated>
-   <id>http://srug.pl/2008/10/21/pierwsze-spotkanie</id>
-   <content type="html">&lt;h2&gt;Witajcie!&lt;/h2&gt;
-&lt;p&gt;Powoli idea powstania śląskiej grupy sympatyków Rubiego nabiera kształtów, czego dowodem niech będzie ta strona.  Cały czas jesteśmy w trakcie przygotowania pierwszego spotkania, które najprawdopodobniej odbędzie się na początku listopada na &lt;a href="http://www.polsl.pl/"&gt;Politechnice Śląskiej w Gliwicach&lt;/a&gt; (wydział &lt;a href="http://aei.polsl.pl/"&gt;AEiI&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Na początku chcielibyśmy zachęcić tych wszystkich, którzy tylko słyszeli lub mieli niewielki kontakt z Rubim. Prezentacja będzie przedstawiać najmocniejsze cechy samego języka jak i obecnie jednego z najpopularniejszych frameworków webowych — Ruby on Rails. Mamy nadzieję, że również zainteresujemy osoby programujące w innych językach — &lt;span class="caps"&gt;PHP&lt;/span&gt;, Java, C♯, etc.  Oczywiście zapraszamy też wszystkich znających Rubiego, aby mogli się z nami podzielić swoimi doświadczeniami, szczególnie że po prezentacji możemy kontynuować spotkanie w swobodniejszej formie (przy muzyce i dobrym piwku), gdzie będzie czas na konstruktywną dyskusję.&lt;/p&gt;
-&lt;p&gt;Wszelkie sugestie i uwagi na pewno przyczynią się do podwyższenia poziomu kolejnych spotkań, dlatego &lt;a href="mailto:spotkania@srug.pl"&gt;piszcie do nas&lt;/a&gt; ze wszystkimi pomysłami jakie przyjdą Wam do głowy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Do zobaczenia wkrótce.&lt;/strong&gt;&lt;/p&gt;</content>
- </entry>
- 
+ {% endfor %}
 
 </feed>
