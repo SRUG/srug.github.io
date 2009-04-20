@@ -11,3 +11,5 @@ p. Głównym tematem prezentacji będzie "REST":http://en.wikipedia.org/wiki/Rep
 p. Pomimo, iż kodowanie będzie w języku Ruby, to tematyka jest na tyle uniwersalna, że może też zainteresować osoby nie znające tego języka.
 
 p. Spotkanie odbędzie się w auli B wydziału AEiI (Gliwice) w poniedziałek (27.04) o godzinie 17.00.
+
+h5=. "!/assets/srug3.png!":/assets/srug3.pdf
