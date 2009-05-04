@@ -22,7 +22,7 @@
     {{ post.content }}
   </div>
   <p class="meta">
-    <a href="{{ post.url | append: '#disqus_thread' }}">View Comments</a>
+    <a href="{{ '#disqus_thread' | prepend: post.url }}">View Comments</a>
   </p>
 </div>
 <div class="clear">
