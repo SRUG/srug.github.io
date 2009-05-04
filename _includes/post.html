@@ -21,6 +21,9 @@
   <div class="post-body">
     {{ post.content }}
   </div>
+  <p class="meta">
+    <a href="{{ post.url | append: '#disqus_thread' }}">View Comments</a>
+  </p>
 </div>
 <div class="clear">
 </div>
