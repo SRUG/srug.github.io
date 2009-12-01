@@ -6,7 +6,7 @@ author: Wojtek
 
 p. Pierwsze spotkanie odbędzie się 3 listopada (poniedziałek) na wydziale AEiI Politechniki Śląskiej o godzinie 16.30 w auli B (parter). Zapraszamy wszystkich zainteresowanych, wstęp oczywiście bezpłatny. *Wśród zapisanych uczestników zostaną rozlosowane upominki pod koniec prezentacji.*
 
-h5=. "!/assets/plakat_mini.png!":/assets/ruby_on_rails_ver_2.pdf
+h5=. "!http://assets.srug.pl/plakat_mini.png!":http://assets.srug.pl/ruby_on_rails_ver_2.pdf
 
 p. Krótkie streszczenie tematyki, która będzie poruszana:
 * Dlaczego web development?
