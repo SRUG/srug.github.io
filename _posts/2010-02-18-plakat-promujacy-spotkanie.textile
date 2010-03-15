@@ -4,6 +4,6 @@ title: Plakat promujący spotkanie
 author: Kuba
 ---
 
-p. Plakat promujący przyszłotygodniowe spotkanie jest już gotowy! Autorem plakatu jest "Wojtek Zieliński":mailto:zielinskiwojciech@gmail.com.
+p. Plakat promujący przyszłotygodniowe spotkanie jest już gotowy! Autorem plakatu jest Wojtek Zieliński.
 
 h5=. "!http://assets.srug.pl/srug4.png!":http://assets.srug.pl/srug4.pdf

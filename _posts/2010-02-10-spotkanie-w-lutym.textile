@@ -8,13 +8,13 @@ p. Miło nam zakomunikować, że udało się w końcu ustalić termin, miejsce i
 
 p. W trakcie spotkania zostaną przedstawione następujące prezentacje:
 
-* „Node.js - wprowadzenie” — prezentacja Jacka Beceli z firmy "Trix":http://trix.pl/, o zdobywającym coraz większą popularność projekcie "node.js":http://nodejs.org/. Projekt ten wykorzystuje silnik JavaScriptowy "V8":http://en.wikipedia.org/wiki/V8_(JavaScript_engine), nieblokujące operacje wejścia/wyjścia, umożliwiając tworzenie wysokowydajnych, jednowątkowych serwerów sieciowych.
+* *„Node.js - wprowadzenie”* — prezentacja Jacka Beceli z firmy "Trix":http://trix.pl/, o zdobywającym coraz większą popularność projekcie "node.js":http://nodejs.org/. Projekt ten wykorzystuje silnik JavaScriptowy "V8":http://en.wikipedia.org/wiki/V8_(JavaScript_engine), nieblokujące operacje wejścia/wyjścia, umożliwiając tworzenie wysokowydajnych, jednowątkowych serwerów sieciowych.
 
-* „Metryki w aplikacjach webowych” — prezentacja Michała Czyża z firmy "Selleo":http://selleo.com/, o wykorzystaniu metryk (jakości, złożoności, wydajności) do analizowania tworzonych przez nas aplikacji webowych. W prezentacji poruszone zostaną także kwestie: wartości metryk z punktu widzenia biznesowego, minimalizacji wysiłku dzięki automatyzacji ich gromadzenia oraz analizy uzyskiwanych wyników.
+* *„Metryki w aplikacjach webowych”* — prezentacja Michała Czyża z firmy "Selleo":http://selleo.com/, o wykorzystaniu metryk (jakości, złożoności, wydajności) do analizowania tworzonych przez nas aplikacji webowych. W prezentacji poruszone zostaną także kwestie: wartości metryk z punktu widzenia biznesowego, minimalizacji wysiłku dzięki automatyzacji ich gromadzenia oraz analizy uzyskiwanych wyników.
 
-* „Capybara” — prezentacja "Piotra Sarnackiego":http://blog.drogomir.com/ na temat "Capybary":http://github.com/jnicklas/capybara. Capybara jest ciekawą alternatywą dla popularnego dziś "Webrata":http://github.com/brynary/webrat. Oba projekty udostępniają bardzo zbliżony "DSL":http://en.wikipedia.org/wiki/Domain-specific_language do tworzenia testów integracyjnych, określanych również jako "_acceptance tests_":http://en.wikipedia.org/wiki/Acceptance_testing.
+* *„Capybara”* — prezentacja "Piotra Sarnackiego":http://blog.drogomir.com/ na temat "Capybary":http://github.com/jnicklas/capybara. Capybara jest ciekawą alternatywą dla popularnego dziś "Webrata":http://github.com/brynary/webrat. Oba projekty udostępniają bardzo zbliżony "DSL":http://en.wikipedia.org/wiki/Domain-specific_language do tworzenia testów integracyjnych, określanych również jako "_acceptance tests_":http://en.wikipedia.org/wiki/Acceptance_testing.
 
-p. Spotkanie odbędzie się 26 lutego 2010, o godzinie 19:00. Wstęp jest oczywiście bezpłatny, ale wszystkich zainteresowanych zapraszamy do wypełnienia poniższego formularza - ułatwi nam to ustalenie liczby uczestników i w razie potrzeby umożliwi zarezerwowanie większej sali.
+p. *Spotkanie odbędzie się 26 lutego 2010, o godzinie 19:00*. Wstęp jest oczywiście bezpłatny, ale wszystkich zainteresowanych zapraszamy do wypełnienia poniższego formularza - ułatwi nam to ustalenie liczby uczestników i w razie potrzeby umożliwi zarezerwowanie większej sali.
 
 p. *Do zobaczenia!*
 
