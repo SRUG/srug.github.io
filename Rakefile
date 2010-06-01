@@ -35,12 +35,14 @@ def ftp_files(prefix_to_remove, source_file_list, target_dir, hostname, username
 end
 
 namespace :deploy do
+  desc "Deploy site using FTP"
   task :ftp do
     credentials = YAML.load_file(".ftp.yaml")
     ftp_files("_site", FileList["_site/**/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
   end
 end
 
+desc "Build site using Jekyll"
 task :default do
   sh "bundle exec jekyll"
 end
