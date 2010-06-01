@@ -17,6 +17,7 @@ end
 
 def ftp_files(prefix_to_remove, source_file_list, target_dir, hostname, username, password)
   Net::FTP.open(hostname, username, password) do |ftp|
+    ftp.passive = true
     ftp_create_dir(ftp, target_dir)
     source_file_list.each do |src_file|
       if prefix_to_remove
@@ -36,6 +37,6 @@ end
 namespace :deploy do
   task :ftp do
     credentials = YAML.load_file(".ftp.yaml")
-    ftp_files("output", FileList["output/**/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
+    ftp_files("_site", FileList["_site/**/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
   end
 end
