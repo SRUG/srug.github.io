@@ -20,4 +20,4 @@ p. *Do zobaczenia!*
 
 <iframe src="http://spreadsheets.google.com/embeddedform?formkey=dENBSEk0MmF5VWZOX0VvVmFHX24teEE6MA" width="485" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-"!http://maps.google.com/maps/api/staticmap?center=50.286268,18.672552&zoom=14&markers=color:red|label:A|50.277109,18.682852&path=color:0x0000FF80|weight:5|50.27491,18.68457&size=485x450&sensor=false!":http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=50.277109,18.682852+(SRUG+-+Bojkowska+37)&sll=50.277109,18.682852&sspn=0.022407,0.055747&ie=UTF8&z=14
+"!http://maps.google.com/maps/api/staticmap?center=50.286268,18.672552&zoom=14&markers=color:red|label:A|50.277109,18.682852&path=color:0x0000FF80|weight:5|50.27491,18.68457&size=474x450&sensor=false!":http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=50.277109,18.682852+(SRUG+-+Bojkowska+37)&sll=50.277109,18.682852&sspn=0.022407,0.055747&ie=UTF8&z=14

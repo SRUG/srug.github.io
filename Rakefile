@@ -1,5 +1,4 @@
 require "net/ftp"
-require "timeout"
 require "yaml"
 
 def ftp_create_dir(ftp, target_dir)
@@ -35,8 +34,8 @@ def ftp_files(prefix_to_remove, source_file_list, target_dir, hostname, username
 end
 
 namespace :deploy do
-  credentials = YAML.load_file(".ftp.yaml")
   task :ftp do
-    ftp_files("_site", FileList["_site/**/*"] - FileList["_site/assets/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
+    credentials = YAML.load_file(".ftp.yaml")
+    ftp_files("output", FileList["output/**/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
   end
 end
