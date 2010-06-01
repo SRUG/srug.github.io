@@ -40,3 +40,7 @@ namespace :deploy do
     ftp_files("_site", FileList["_site/**/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
   end
 end
+
+task :default do
+  sh "bundle exec jekyll"
+end
