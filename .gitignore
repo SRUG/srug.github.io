@@ -1,2 +1,3 @@
+.bundle
 _site/**
-.ftp.yaml
+.ftp.yml

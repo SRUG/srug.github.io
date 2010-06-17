@@ -37,7 +37,7 @@ end
 namespace :deploy do
   desc "Deploy site using FTP"
   task :ftp do
-    credentials = YAML.load_file(".ftp.yaml")
+    credentials = YAML.load_file(".ftp.yml")
     ftp_files("_site", FileList["_site/**/*"], "www", "ftp.start1m.ovh.net", credentials["user"], credentials["pass"])
   end
 end
