@@ -1,35 +1,24 @@
---- 
-dependencies: 
-  jekyll: 
-    group: 
-    - :default
-    version: ">= 0"
-  rake: 
-    group: 
-    - :default
-    version: ">= 0"
-specs: 
-- rake: 
-    version: 0.8.7
-- RedCloth: 
-    version: 4.2.3
-- stemmer: 
-    version: 1.0.1
-- classifier: 
-    version: 1.3.1
-- directory_watcher: 
-    version: 1.3.2
-- liquid: 
-    version: 2.0.0
-- syntax: 
-    version: 1.0.0
-- maruku: 
-    version: 0.6.0
-- open4: 
-    version: 1.0.1
-- jekyll: 
-    version: 0.5.7
-hash: d1e167929f6262e1345dc8b10057bc1fbe3bb3dc
-sources: 
-- Rubygems: 
-    uri: http://gemcutter.org
+GEM
+  remote: http://rubygems.org/
+  specs:
+    classifier (1.3.3)
+      fast-stemmer (>= 1.0.0)
+    directory_watcher (1.3.2)
+    fast-stemmer (1.0.0)
+    jekyll (0.7.0)
+      classifier (>= 1.3.1)
+      directory_watcher (>= 1.1.1)
+      liquid (>= 1.9.0)
+      maruku (>= 0.5.9)
+    liquid (2.2.2)
+    maruku (0.6.0)
+      syntax (>= 1.0.0)
+    rake (0.8.7)
+    syntax (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll
+  rake

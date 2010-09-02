@@ -1,0 +1,23 @@
+---
+layout: post
+title: Wrześniowe spotkanie
+author: Kuba
+---
+
+p. Wrześniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *17 września 2010, o godzinie 19:00* w klubie "Yacht Klub Polski Bielsko":http://www.ykpb.pl/, w Bielsku-Białej przy ulicy Szkolnej 15. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.
+
+p. Podczas spotkania przedstawione zostaną trzy prezentacje:
+
+* *„Podstawy tworzenia aplikacji internetowych z wykorzystaniem YUI3 i Rails 3”* — prezentacja "Jakuba Kuźmy":http://jah.pl/ z firmy "Object Reload":http://objectreload.com/ o wykorzystaniu najnowszej wersji bilbioteki "Yahoo! User Interface":http://developer.yahoo.com/yui/3/ do tworzenia aplikacji określanych mianem "RIA":http://pl.wikipedia.org/wiki/Rich_Internet_Application. Budowanie tego typu aplikacji pokazane zostanie na przykładzie "serwisu brydżowego":http://bridge.heroku.com/, którego kod dostępny jest na "Githubie":http://github.com/morgoth/bridge.
+
+* *„TemplateDerby - rozszerzony ERB”* — prezentacja Błażeja Kosmowskiego z firmy "Selleo":http://selleo.com/ o autorskim rozszerzeniu systemu szablonów "ERB":http://en.wikipedia.org/wiki/ERuby, inspirowanym systemem "DRYML":http://hobocentral.net/manual/chapters/3_dryml.html pochodzącym z pakietu "Hobo":http://hobocentral.net/.
+
+* *„Obiekty w Bazie”* — prezentacja Tomasza Bąka z firmy "Selleo":http://selleo.com/ omawiająca ciekawe przypadki serializowania obiektów w relacyjnych bazach danych, z wykorzystaniem: ActiveRecord, YAML, JSON i innych.
+
+p. "Dyskusja":http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/fb94dba28507b174 o szczegółach dotyczących spotkania dostępna jest na "grupie dyskusyjnej":http://groups.google.com/group/silesian-ruby-user-group/.
+
+p. *Zapraszamy!*
+
+<iframe src="http://spreadsheets.google.com/embeddedform?hl=pl&formkey=dGxranJQMlJQWVlLYmNFYmIwUktSaGc6MA" width="474" height="685" frameborder="0" marginheight="0" marginwidth="0">Ładowanie...</iframe>
+
+"!http://maps.google.com/maps/api/staticmap?center=49.823505,19.055185&zoom=15&markers=color:red|label:A|49.823505,19.055185&size=474x450&sensor=false!":http://maps.google.com/maps?hl=pl&geocode=&q=Yacht+Klub+Polski+Bielsko&ll=49.823505,19.055185&z=14
