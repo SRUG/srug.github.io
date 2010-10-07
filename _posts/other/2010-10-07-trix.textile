@@ -1,0 +1,6 @@
+---
+name: Trix
+href: http://trix.pl/
+logo: trix.png
+categories: ["company"]
+---

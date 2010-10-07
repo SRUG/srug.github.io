@@ -2,6 +2,7 @@
 layout: post
 title: Materiały z trzeciego spotkania
 author: Kuba
+categories: ["article"]
 ---
 
 p. Zamieszczamy plik z poniedziałkowej "prezentacji":http://assets.srug.pl/srug-presentation-3.pdf. Tak jak obiecywaliśmy, w "repozytorium SRUG-u":http://github.com/SRUG znajdują się kody źródłowe "serwera":http://github.com/SRUG/srug-3-rest-app oraz "klienta":http://github.com/SRUG/srug-3-rest-client. Problemy powstałe podczas prezentowania klienta spowodowane były "niekompatybilnością ActiveResource z Ruby 1.9":https://rails.lighthouseapp.com/projects/8994/tickets/1272-ruby19-incompatibility-activeresourceconnectionhttp-use_ssl - do czasu włączenia poprawki do repozytorium można użyć Ruby w wersji 1.8.

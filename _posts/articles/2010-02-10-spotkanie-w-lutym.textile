@@ -2,6 +2,7 @@
 layout: post
 title: Spotkanie w lutym
 author: Kuba
+categories: ["article"]
 ---
 
 p. Miło nam zakomunikować, że udało się w końcu ustalić termin, miejsce i tematykę najbliższego spotkania. Wspólnie z osobami mieszkającymi/pracującymi w innych miastach doszliśmy do wniosku, że najdogodniej będzie zorganizować spotkanie w weekend, tak aby dać każdemu szanse na dojazd. Nietrudno się domyślić, że dość problematyczne jest zarezerwowanie odpowiedniego pomieszczenia w barze/pubie w trakcie weekendu (a przynajmniej nie jest to tanie). W związku z tym lutowe spotkanie odbędzie się w "budynku 4 - „Maszynowni”, na terenie „Nowych Gliwic”":http://www.arl.pl/1,63,Budynek_4__Maszynownia.html, przy ulicy Bojkowskiej 37. Sala ta powinna pomieścić około 30 osób, do dyspozycji jest oczywiście projektor, może natomiast brakować piwa — dlatego po spotkaniu planowane jest dokończenie dyskusji w jednym z okolicznych pubów.

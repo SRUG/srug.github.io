@@ -2,6 +2,7 @@
 layout: post
 title: Pierwsze spotkanie
 author: Wojtek
+categories: ["article"]
 ---
 
 h2. Witajcie!

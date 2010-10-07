@@ -2,6 +2,7 @@
 layout: post
 title: Pierwsze spotkanie - szczegóły
 author: Wojtek
+categories: ["article"]
 ---
 
 p. Pierwsze spotkanie odbędzie się 3 listopada (poniedziałek) na wydziale AEiI Politechniki Śląskiej o godzinie 16.30 w auli B (parter). Zapraszamy wszystkich zainteresowanych, wstęp oczywiście bezpłatny. *Wśród zapisanych uczestników zostaną rozlosowane upominki pod koniec prezentacji.*

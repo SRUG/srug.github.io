@@ -2,6 +2,7 @@
 layout: post
 title: Szczegóły dotyczące czerwcowego spotkania
 author: Kuba
+categories: ["article"]
 ---
 
 p. Zgodnie z zapowiedziami *czerwcowe spotkanie odbędzie się 25 czerwca 2010, o godzinie 19:00* w "klubie muzycznym 4art":http://4artgliwice.pl/, w Gliwicach przy ulicy Wieczorka 22. Wstęp jak zwykle bezpłatny, sala powinna pomieścić około 20 osób. Prosimy o wypełnienie formularza rejestracyjnego, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.

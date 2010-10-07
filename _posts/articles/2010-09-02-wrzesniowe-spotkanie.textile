@@ -2,6 +2,7 @@
 layout: post
 title: Wrześniowe spotkanie
 author: Kuba
+categories: ["article"]
 ---
 
 p. Wrześniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *17 września 2010, o godzinie 19:00* w klubie "Yacht Klub Polski Bielsko":http://www.ykpb.pl/, w Bielsku-Białej przy ulicy Szkolnej 15. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.

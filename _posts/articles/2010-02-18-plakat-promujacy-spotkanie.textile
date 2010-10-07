@@ -2,6 +2,7 @@
 layout: post
 title: Plakat promujący spotkanie
 author: Kuba
+categories: ["article"]
 ---
 
 p. Plakat promujący przyszłotygodniowe spotkanie jest już gotowy! Autorem plakatu jest Wojtek Zieliński.

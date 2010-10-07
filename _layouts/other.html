@@ -21,9 +21,18 @@
           <div id="content">
             <div id="maincol">
               <div id="mc2">
-                {% for post in site.categories.article limit:5 %}
-                  {% include post.html %}
-                {% endfor %}
+                <div class="post">
+                  <div class="post-body">
+                    <h2>
+                      <a href="{{ page.url }}" title="{{ page.title }}">
+                        {{ page.title }}
+                      </a>
+                    </h2>
+                    {{ content }}
+                  </div>
+                </div>
+                <div class="clear">
+                </div>
               </div>
             </div>
             <div id="subcol">
@@ -48,20 +57,6 @@
         </div>
       </div>
     </div>
-    <script type="text/javascript">
-//<![CDATA[
-(function() {
-    var links = document.getElementsByTagName('a');
-    var query = '?';
-    for(var i = 0; i < links.length; i++) {
-      if(links[i].href.indexOf('#disqus_thread') >= 0) {
-        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-      }
-    }
-    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/srug/get_num_replies.js' + query + '"></' + 'script>');
-  })();
-//]]>
-    </script>
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
