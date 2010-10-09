@@ -14,7 +14,7 @@ layout: nil
    <email>admin@srug.pl</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.categories.article %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://srug.pl{{ post.url }}"/>
