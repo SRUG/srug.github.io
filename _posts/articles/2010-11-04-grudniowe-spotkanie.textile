@@ -19,7 +19,7 @@ p. "Dyskusja":http://groups.google.com/group/silesian-ruby-user-group/browse_thr
 
 p. *Zapraszamy!*
 
-p. Propozycja dot. noclegów: "Hotel PTTK":http://www.pttk-pszczyna.emeteor.pl/
+p. Propozycja dot. noclegów (ceny od 45PLN): "Hotel PTTK":http://www.pttk-pszczyna.emeteor.pl/
 
 <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dHBleXZ0SGlZT01fVTctbVdrUU9iSEE6MA" width="474" height="690" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
