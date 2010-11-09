@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grudniowe spotkanie
-author: trix
+author: pawel
 categories: ["article"]
 ---
 
