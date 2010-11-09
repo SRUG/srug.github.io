@@ -4,7 +4,7 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2010-11-09T13:14:24+01:00</updated>
+ <updated>2010-11-09T14:02:09+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
@@ -17,7 +17,7 @@
    <link href="http://srug.pl/article/2010/11/09/grudniowe-spotkanie.html"/>
    <updated>2010-11-09T00:00:00+01:00</updated>
    <id>http://srug.pl/article/2010/11/09/grudniowe-spotkanie</id>
-   <content type="html">&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;assets/srug6.png&quot;&gt;&lt;img src=&quot;assets/srug6.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;
+   <content type="html">&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;/assets/srug6.pdf&quot;&gt;&lt;img src=&quot;/assets/srug6.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;Grudniowe spotkanie &lt;a href=&quot;http://srug.pl/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;&lt;/a&gt; odbędzie się &lt;strong&gt;3 grudnia 2010, o godzinie 19:00&lt;/strong&gt; w Pszczynie, w hotelu &lt;a href=&quot;http://pianonobile.com.pl/&quot;&gt;Piano Nobile&lt;/a&gt;. Wstęp jest bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to organizację odpowiedniej ilości miejsc.&lt;/p&gt;
 &lt;p&gt;Podczas spotkania przedstawione zostaną prezentacje:&lt;/p&gt;
 &lt;ul&gt;
@@ -69,7 +69,7 @@
    <content type="html">&lt;p&gt;Czerwcowy plakat jest już gotowy. Możliwe, że część z nas będzie w 4arcie już&lt;br /&gt;
 po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Portugalia &amp;#8212; Brazylia).&lt;/p&gt;
 &lt;p&gt;Zapraszamy raz jeszcze i do zobaczenia.&lt;/p&gt;
-&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://assets.srug.pl/srug5.pdf&quot;&gt;&lt;img src=&quot;http://assets.srug.pl/srug5.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;/assets/srug5.pdf&quot;&gt;&lt;img src=&quot;/assets/srug5.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
  </entry>
  
  <entry>
@@ -98,7 +98,7 @@ po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Por
    <id>http://srug.pl/article/2010/06/01/spotkanie-w-czerwcu</id>
    <content type="html">&lt;p&gt;Po powrocie z &lt;a href=&quot;http://euruko2010.org/&quot;&gt;EuRuKo&lt;/a&gt; zabieramy się za organizację czerwcowego spotkania &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;-u. Ze wstępnych ustaleń wynika, że odbędzie się ono 25 czerwca w Gliwicach (dokładne miejsce nie jest jeszcze znane). Jeśli wszystko pójdzie zgodnie z planem, to jednym z prelegentów będzie &lt;a href=&quot;http://twitter.com/josevalim&quot;&gt;José Valim&lt;/a&gt;. Zachęcamy wszystkich do udziału w &lt;a href=&quot;http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/d5e940726f33e9f0&quot;&gt;dyskusji&lt;/a&gt; o szczegółach dotyczących spotkania.&lt;/p&gt;
 &lt;p&gt;Jednocześnie ubolewamy nad tym, że pomimo usilnych starań nie udało nam się zaprosić na spotkanie Matza ;-). W ramach rekompensaty doklejamy zdjęcie wraz z pozdrowieniami od Matza i jego „nice and blave community”.&lt;/p&gt;
-&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;http://assets.srug.pl/matz.jpg&quot; alt=&quot;&quot; /&gt;&lt;/h5&gt;</content>
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/matz.jpg&quot; alt=&quot;&quot; /&gt;&lt;/h5&gt;</content>
  </entry>
  
  <entry>
@@ -107,7 +107,7 @@ po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Por
    <updated>2010-02-18T00:00:00+01:00</updated>
    <id>http://srug.pl/article/2010/02/18/plakat-promujacy-spotkanie</id>
    <content type="html">&lt;p&gt;Plakat promujący przyszłotygodniowe spotkanie jest już gotowy! Autorem plakatu jest Wojtek Zieliński.&lt;/p&gt;
-&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://assets.srug.pl/srug4.pdf&quot;&gt;&lt;img src=&quot;http://assets.srug.pl/srug4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;/assets/srug4.pdf&quot;&gt;&lt;img src=&quot;/assets/srug4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
  </entry>
  
  <entry>
@@ -159,7 +159,7 @@ po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Por
 &lt;p&gt;Głównym tematem prezentacji będzie &lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_State_Transfer&quot;&gt;&lt;span class=&quot;caps&quot;&gt;REST&lt;/span&gt;&lt;/a&gt;, Spotkanie poprowadzi Szymon Nowak, który dokładnie objaśni cechy oraz zalety, tworząc jednocześnie przykładową aplikację udostępniającą zasoby za pomocą wspomnianego wyżej &lt;span class=&quot;caps&quot;&gt;REST&lt;/span&gt; oraz klienta korzystającego z tychże zasobów.&lt;/p&gt;
 &lt;p&gt;Pomimo, iż kodowanie będzie w języku Ruby, to tematyka jest na tyle uniwersalna, że może też zainteresować osoby nie znające tego języka.&lt;/p&gt;
 &lt;p&gt;Spotkanie odbędzie się w auli B wydziału AEiI (Gliwice) w poniedziałek (27.04) o godzinie 17.00.&lt;/p&gt;
-&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://assets.srug.pl/srug3.pdf&quot;&gt;&lt;img src=&quot;http://assets.srug.pl/srug3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;/assets/srug3.pdf&quot;&gt;&lt;img src=&quot;/assets/srug3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
  </entry>
  
  <entry>
@@ -187,7 +187,7 @@ po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Por
    <content type="html">&lt;h2&gt;Zapraszamy na drugie spotkanie!&lt;/h2&gt;
 &lt;p&gt;Tym razem chcielibyśmy pokazać jak Ruby wygląda w akcji — na prezentacji będziemy realizować aplikację typu &lt;a href=&quot;http://pl.wikipedia.org/wiki/Mashup&quot;&gt;mashup&lt;/a&gt;, która ma na celu ułatwić prozaiczne czynności powtarzane przez każdego z nas (oczywiście z tematyki internetowej).  Będziecie mieli okazję zobaczyć jak bardzo przyjemny i intuicyjny jest Ruby w praktyce: &lt;strong&gt;„Mniej kodowania — więcej czasu na życie”&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Spotkanie odbędzie się, tak jak poprzednio, w auli B wydziału AEiI wponiedziałek (15.12) o godzinie 16.30.&lt;/p&gt;
-&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://assets.srug.pl/ruby_on_rails_2.pdf&quot;&gt;&lt;img src=&quot;http://assets.srug.pl/rails2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;/assets/ruby_on_rails_2.pdf&quot;&gt;&lt;img src=&quot;/assets/rails2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;</content>
  </entry>
  
  <entry>
@@ -204,7 +204,7 @@ po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Por
    <updated>2008-10-28T00:00:00+01:00</updated>
    <id>http://srug.pl/article/2008/10/28/pierwsze-spotkanie-szczegoly</id>
    <content type="html">&lt;p&gt;Pierwsze spotkanie odbędzie się 3 listopada (poniedziałek) na wydziale AEiI Politechniki Śląskiej o godzinie 16.30 w auli B (parter). Zapraszamy wszystkich zainteresowanych, wstęp oczywiście bezpłatny. &lt;strong&gt;Wśród zapisanych uczestników zostaną rozlosowane upominki pod koniec prezentacji.&lt;/strong&gt;&lt;/p&gt;
-&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://assets.srug.pl/ruby_on_rails_ver_2.pdf&quot;&gt;&lt;img src=&quot;http://assets.srug.pl/plakat_mini.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;/assets/ruby_on_rails_ver_2.pdf&quot;&gt;&lt;img src=&quot;/assets/plakat_mini.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;_&lt;/h5&gt;
 &lt;p&gt;Krótkie streszczenie tematyki, która będzie poruszana:&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;Dlaczego web development?&lt;/li&gt;

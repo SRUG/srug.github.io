@@ -7,4 +7,4 @@ categories: ["article"]
 
 p. Plakat promujący przyszłotygodniowe spotkanie jest już gotowy! Autorem plakatu jest Wojtek Zieliński.
 
-h5=. "!http://assets.srug.pl/srug4.png!":http://assets.srug.pl/srug4.pdf
+h5=. "!/assets/srug4.png!":/assets/srug4.pdf

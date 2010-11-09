@@ -10,4 +10,4 @@ po godzinie 16:00. W klubie można będzie obejrzeć mecz na dużym ekranie (Por
 
 p. Zapraszamy raz jeszcze i do zobaczenia.
 
-h5=. "!http://assets.srug.pl/srug5.png!":http://assets.srug.pl/srug5.pdf
+h5=. "!/assets/srug5.png!":/assets/srug5.pdf
