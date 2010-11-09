@@ -5,6 +5,8 @@ author: trix
 categories: ["article"]
 ---
 
+h5=. "!http://assets.srug.pl/srug6.png!":http://assets.srug.pl/srug6.png
+
 p. Grudniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *3 grudnia 2010, o godzinie 19:00* w Pszczynie, w hotelu "Piano Nobile":http://pianonobile.com.pl/. Wstęp jest bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej ilości miejsc.
 
 p. Podczas spotkania przedstawione zostaną prezentacje:
