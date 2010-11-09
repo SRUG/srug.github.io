@@ -1,5 +1,5 @@
-destination: ./_site
-auto:        false
+destination: public
+auto:        true
 lsi:         false
 server_port: 4000
 pygments:    false
