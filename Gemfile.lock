@@ -14,8 +14,12 @@ GEM
     liquid (2.2.2)
     maruku (0.6.0)
       syntax (>= 1.0.0)
-    rake (0.8.7)
+    rack (1.2.1)
+    sinatra (1.1.0)
+      rack (~> 1.1)
+      tilt (~> 1.1)
     syntax (1.0.0)
+    tilt (1.1)
 
 PLATFORMS
   ruby
@@ -23,4 +27,4 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   jekyll
-  rake
+  sinatra
