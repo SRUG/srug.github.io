@@ -17,9 +17,9 @@ p. Podczas spotkania przedstawione zostaną prezentacje:
 
 * *"JSONP w praktyce"* - przykłady użycia z omówieniem narzędzi Javascript i Ruby — prezentacja Tomasza Mazura
 
-* *"Rails 3 mountable apps"* - Piotr Sarnacki 
+* *"Rails 3 mountable apps"* - prezentacja Piotra Sarnackiego 
 
-p. "Dyskusja":http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/f76b93c0a8312ca2 o szczegółach dotyczących spotkania jest dostępna "tutaj":http://groups.google.com/group/silesian-ruby-user-group/.
+p. Dyskusja o szczegółach dotyczących spotkania jest dostępna "tutaj":http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/f76b93c0a8312ca2.
 
 p. *Zapraszamy!*
 
