@@ -11,13 +11,15 @@ p. Grudniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *3 grudnia 2010, o 
 
 p. Podczas spotkania przedstawione zostaną prezentacje:
 
-* *“Chef - wprowadzenie”*  - prezentacja o frameworku umożliwiającym automatyczne zarządzanie systemem operacyjnym oraz jego konfigurację — prezentacja Wojciecha Wnętrzniaka.
+* *“Chef - wprowadzenie”*  - prezentacja o frameworku umożliwiającym automatyczne zarządzanie systemem operacyjnym oraz jego konfigurację — prezentacja Wojciecha Wnętrzaka.
 
 * *"Interfejsy użytkownika w WWW"* - zasady projektowania funkcjonalnych i przejrzystych stron internetowych — prezentacja Pawła Lenarta.
 
 * *"JSONP w praktyce"* - przykłady użycia z omówieniem narzędzi Javascript i Ruby — prezentacja Tomasza Mazura
 
-p. "Dyskusja":http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/f76b93c0a8312ca2 o szczegółach dotyczących spotkania dostępna jest na "grupie dyskusyjnej":http://groups.google.com/group/silesian-ruby-user-group/.
+* *"Rails 3 mountable apps"* - Piotr Sarnacki 
+
+p. "Dyskusja":http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/f76b93c0a8312ca2 o szczegółach dotyczących spotkania jest dostępna "tutaj":http://groups.google.com/group/silesian-ruby-user-group/.
 
 p. *Zapraszamy!*
 
