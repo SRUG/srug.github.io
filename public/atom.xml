@@ -4,7 +4,11 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
+<<<<<<< HEAD
  <updated>2010-11-09T14:10:36+01:00</updated>
+=======
+ <updated>2010-11-09T13:06:26+01:00</updated>
+>>>>>>> 8f141056a88f062979639682b52c5fd5227b7d8c
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
