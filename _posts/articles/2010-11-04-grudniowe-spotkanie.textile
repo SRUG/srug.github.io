@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Grudniowe spotkanie
-author: pawel
+author: Paweł
 categories: ["article"]
 ---
 
 h5=. "!assets/srug6.png!":assets/srug6.png
 
-p. Grudniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *3 grudnia 2010, o godzinie 19:00* w Pszczynie, w hotelu "Piano Nobile":http://pianonobile.com.pl/. Wstęp jest bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej ilości miejsc.
+p. Grudniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *3 grudnia 2010, o godzinie 19:00* w Pszczynie, w hotelu "Piano Nobile":http://pianonobile.com.pl/. Wstęp jest bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to organizację odpowiedniej ilości miejsc.
 
 p. Podczas spotkania przedstawione zostaną prezentacje:
 
