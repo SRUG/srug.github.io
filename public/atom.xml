@@ -4,17 +4,24 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
-<<<<<<< HEAD
- <updated>2010-11-09T14:10:36+01:00</updated>
-=======
- <updated>2010-11-09T13:06:26+01:00</updated>
->>>>>>> 8f141056a88f062979639682b52c5fd5227b7d8c
+ <updated>2010-11-22T13:19:25+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Python i Django na grudniowym spotkaniu SRUG'u</title>
+   <link href="http://srug.pl/article/2010/11/22/grudniowe-spotkanie-nowe-szczegoly.html"/>
+   <updated>2010-11-22T00:00:00+01:00</updated>
+   <id>http://srug.pl/article/2010/11/22/grudniowe-spotkanie-nowe-szczegoly</id>
+   <content type="html">&lt;p&gt;W piatek 3.12 o godzinie 18:00 w Pszczynie w kawiarni Piano Nobile odbędzie się małe spotkanie programistów technologii Django i Python z południowej Polski.&lt;/p&gt;
+&lt;p&gt;Spotkanie odbywa się przy okazji imprezy Śląskiej Grupy Użytkowników Ruby i będzie poświęcone wymianie doświadczeń i porównaniom z technologiami webowymi związanymi z Ruby.&lt;/p&gt;
+&lt;p&gt;Serdecznie zapraszamy!&lt;/p&gt;
+&lt;p&gt;Organizator: Adam Przybyła &lt;a href=&quot;mailto:adam@ertel.com.pl&quot;&gt;adam@ertel.com.pl&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Grudniowe spotkanie</title>
