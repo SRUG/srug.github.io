@@ -4,13 +4,34 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2010-11-22T13:19:25+01:00</updated>
+ <updated>2010-12-12T00:13:14+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Materiały z grudniowego spotkania</title>
+   <link href="http://srug.pl/article/2010/12/11/materialy-z-grudniowego-spotkania.html"/>
+   <updated>2010-12-11T00:00:00+01:00</updated>
+   <id>http://srug.pl/article/2010/12/11/materialy-z-grudniowego-spotkania</id>
+   <content type="html">&lt;p&gt;Dziękujemy za liczne przybycie do Pszczyny! Nawet mimo niezbyt sprzyjających warunków pogodowych, na spotkaniu zjawiła się większość z &lt;strong&gt;56 zarejestrowanych osób&lt;/strong&gt;. Oczywiście podziękowania należą się także firmie &lt;a href=&quot;http://trix.pl/&quot;&gt;Trix&lt;/a&gt; za organizację całego wydarzenia. Mamy nadzieję, że będziemy mieli jeszcze niejedną okazję spotkać się w Pszczynie.&lt;/p&gt;
+&lt;p&gt;Kolejną dobrą informacją jest to, że w końcu udało nam się ogarnąć materiały zebrane zarówno podczas tego, jak i kilku poprzednich spotkań. Założyliśmy &lt;a href=&quot;http://vimeo.com/srug&quot;&gt;konto w serwisie Vimeo&lt;/a&gt;, na którym postaramy się na bieżąco umieszczać nagrania z kolejnych prezentacji.&lt;/p&gt;
+&lt;p&gt;Poniżej zamieszamy wszystkie materiały z grudniowego spotkania, jakie udało nam się do tej pory zebrać:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://picasaweb.google.com/j.jarczok/SRUGPszczyna03122010&quot;&gt;zdjęcia z prezentacji&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.flickr.com/photos/selleo-custom-web-development/sets/72157625532498274/&quot;&gt;zdjęcia z afterparty&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://srug.pl/assets/wojciech-wnetrzak-chef-wprowadzenie.pdf&quot;&gt;prezentacja Wojtka Wnętrzaka w formacie &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://srug.pl/assets/pawel-lenart-interfejsy-w-www.pdf&quot;&gt;prezentacja Pawła Lenarta w formacie &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://jsonptricks.heroku.com/&quot; title=&quot;showoff&quot;&gt;prezentacja Tomka Mazura na Heroku&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/17466087&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/17466087&quot;&gt;Wojciech Wnętrzak, Chef &amp;#8211; Wprowadzenie&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/srug&quot;&gt;Silesian Ruby Users Group&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/17468001&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/17468001&quot;&gt;Tomasz Mazur, &lt;span class=&quot;caps&quot;&gt;JSONP&lt;/span&gt; w praktyce&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/srug&quot;&gt;Silesian Ruby Users Group&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/17488524&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/17488524&quot;&gt;Paweł Lenart, Interfejsy użytkownika w &lt;span class=&quot;caps&quot;&gt;WWW&lt;/span&gt;&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/srug&quot;&gt;Silesian Ruby Users Group&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/17634826&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/17634826&quot;&gt;Piotr Sarnacki, Rails 3 Mountable Apps&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/srug&quot;&gt;Silesian Ruby Users Group&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
  
  <entry>
    <title>Python i Django na grudniowym spotkaniu SRUG'u</title>
@@ -44,6 +65,29 @@
 	&lt;li&gt;&lt;strong&gt;&amp;#8220;Rails 3 mountable apps&amp;#8221;&lt;/strong&gt; &amp;#8211; prezentacja Piotra Sarnackiego&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Dyskusja o szczegółach dotyczących spotkania jest dostępna &lt;a href=&quot;http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/f76b93c0a8312ca2&quot;&gt;tutaj&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zapraszamy!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Propozycja dot. noclegów (ceny od 45PLN): &lt;a href=&quot;http://www.pttk-pszczyna.emeteor.pl/&quot;&gt;Hotel &lt;span class=&quot;caps&quot;&gt;PTTK&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://spreadsheets.google.com/embeddedform?formkey=dHBleXZ0SGlZT01fVTctbVdrUU9iSEE6MA&quot; width=&quot;474&quot; height=&quot;690&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading&amp;#8230;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;425&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://maps.google.pl/maps?f=q&amp;amp;source=s_q&amp;amp;hl=pl&amp;amp;geocode=&amp;amp;q=Pszczyna,+Rynek+16&amp;amp;sll=49.976735,18.944024&amp;amp;sspn=0.004112,0.010214&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Rynek+16,+Pszczyna,+Pszczy%C5%84ski,+%C5%9Al%C4%85skie&amp;amp;ll=49.977415,18.941977&amp;amp;spn=0.006982,0.013754&amp;amp;z=14&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;http://maps.google.pl/maps?f=q&amp;amp;source=embed&amp;amp;hl=pl&amp;amp;geocode=&amp;amp;q=Pszczyna,+Rynek+16&amp;amp;sll=49.976735,18.944024&amp;amp;sspn=0.004112,0.010214&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Rynek+16,+Pszczyna,+Pszczy%C5%84ski,+%C5%9Al%C4%85skie&amp;amp;ll=49.977415,18.941977&amp;amp;spn=0.006982,0.013754&amp;amp;z=14&quot; style=&quot;color:#0000FF;text-align:left&quot;&gt;Wyświetl większą mapę&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Grudniowe spotkanie</title>
+   <link href="http://srug.pl/article/2010/11/04/grudniowe-spotkanie.html"/>
+   <updated>2010-11-04T00:00:00+01:00</updated>
+   <id>http://srug.pl/article/2010/11/04/grudniowe-spotkanie</id>
+   <content type="html">&lt;p&gt;Grudniowe spotkanie &lt;a href=&quot;http://srug.pl/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;&lt;/a&gt; odbędzie się &lt;strong&gt;3 grudnia 2010, o godzinie 19:00&lt;/strong&gt; w Pszczynie, w hotelu &lt;a href=&quot;http://pianonobile.com.pl/&quot;&gt;Piano Nobile&lt;/a&gt;. Wstęp jest bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej ilości miejsc.&lt;/p&gt;
+&lt;p&gt;Podczas spotkania przedstawione zostaną prezentacje:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;“Chef &amp;#8211; wprowadzenie”&lt;/strong&gt;  &amp;#8211; prezentacja o frameworku umożliwiającym automatyczne zarządzanie systemem operacyjnym oraz jego konfigurację — prezentacja Wojciecha Wnętrzniaka.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;&amp;#8220;Interfejsy użytkownika w &lt;span class=&quot;caps&quot;&gt;WWW&lt;/span&gt;&amp;#8221;&lt;/strong&gt; &amp;#8211; zasady projektowania funkcjonalnych i przejrzystych stron internetowych — prezentacja Pawła Lenarta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;&amp;#8220;&lt;span class=&quot;caps&quot;&gt;JSONP&lt;/span&gt; w praktyce&amp;#8221;&lt;/strong&gt; &amp;#8211; przykłady użycia z omówieniem narzędzi Javascript i Ruby — prezentacja Tomasza Mazura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://groups.google.com/group/silesian-ruby-user-group/browse_thread/thread/f76b93c0a8312ca2&quot;&gt;Dyskusja&lt;/a&gt; o szczegółach dotyczących spotkania dostępna jest na &lt;a href=&quot;http://groups.google.com/group/silesian-ruby-user-group/&quot;&gt;grupie dyskusyjnej&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Zapraszamy!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Propozycja dot. noclegów (ceny od 45PLN): &lt;a href=&quot;http://www.pttk-pszczyna.emeteor.pl/&quot;&gt;Hotel &lt;span class=&quot;caps&quot;&gt;PTTK&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;https://spreadsheets.google.com/embeddedform?formkey=dHBleXZ0SGlZT01fVTctbVdrUU9iSEE6MA&quot; width=&quot;474&quot; height=&quot;690&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading&amp;#8230;&lt;/iframe&gt;&lt;/p&gt;
