@@ -7,12 +7,12 @@ categories: ["article"]
 
 p. Lutowe spotkanie "SRUG":http://srug.pl/ odbędzie się *19 lutego 2011, o godzinie 17:00* w klubie "Gramofon":http://www.gramofon-pub.com.pl/ (strona jest chyba chwilowo niedostępna), w Gliwicach przy ulicy Średniej 12. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.
 
-p. Lista prezentacji jest w trakcie ustalania.
+p. Do chwili obecnej zgłoszone zostały dwie prezentacje, lista prezentacji jest nadal otwarta. Zapraszamy wszystkich chętnych do "zgłaszania własnych prezentacji":http://groups.google.com/group/silesian-ruby-user-group/.
 
 p. Po prezentacjach zachęcamy do pozostania na afterparty, które odbędzie się w tym samym miejscu.
 
 p. *Zapraszamy!*
 
-<iframe src="https://spreadsheets.google.com/embeddedform?formkey=dFhPQVNzbTJNVExiajZJWGdSYUZKcmc6MA" width="474" height="685" frameborder="0" marginheight="0" marginwidth="0">Ładowanie...</iframe>
+<iframe src="https://spreadsheets.google.com/embeddedform?hl=pl&formkey=dFhPQVNzbTJNVExiajZJWGdSYUZKcmc6MA" width="474" height="700" frameborder="0" marginheight="0" marginwidth="0">Ładowanie...</iframe>
 
 "!http://maps.google.com/maps/api/staticmap?center=50.294083,18.664232&zoom=15&markers=color:red|label:A|50.294083,18.664232&size=474x450&sensor=false!":http://maps.google.com/maps?hl=pl&geocode=&q=Srednia+12+Gliwice&ll=50.294083,18.664232&z=14
