@@ -4,7 +4,7 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-01-26T13:16:41+01:00</updated>
+ <updated>2011-01-26T13:19:09+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
@@ -19,8 +19,8 @@
    <id>http://srug.pl/article/2011/01/24/lista-prezentacji-lutowego-spotkania</id>
    <content type="html">&lt;p&gt;W związku z brakiem nowych zgłoszeń, uznajemy że lista prezentacji na lutowym spotkaniu &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt; jest zamknięta i przedstawia się następująco:&lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;&amp;#8220;Redis &amp;#8211; wprowadzenie&amp;#8221; &amp;#8211; prezentacja &lt;a href=&quot;http://mirobor.pl/&quot;&gt;Mirosława Boruty&lt;/a&gt; z firmy &lt;a href=&quot;http://objectreload.com/&quot;&gt;Object Reload&lt;/a&gt; o bazie danych &lt;a href=&quot;http://redis.io/&quot;&gt;Redis&lt;/a&gt;. Przedstawi on m.in. zastosowanie Redisa w projektach webowych jako zamiennika zwykłej bazy &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt;-owej.&lt;/li&gt;
-	&lt;li&gt;&amp;#8220;Rails od środka&amp;#8221; &amp;#8211; &lt;a href=&quot;http://piotrsarnacki.com/&quot;&gt;Piotr Sarnacki&lt;/a&gt; omówi &amp;#8220;wnętrzności&amp;#8221; frameworka &lt;a href=&quot;http://rubyonrails.com/&quot;&gt;Ruby on Rails&lt;/a&gt;. Prezentacja jest adresowana do osób, które zawsze były ciekawe co w Railsach piszczy. Drogus otworzy kod z chirurgiczną precyzją i zademonstruje jego najbardziej smakowite kąski.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&amp;#8220;Redis &amp;#8211; wprowadzenie&amp;#8221;&lt;/strong&gt; &amp;#8211; prezentacja &lt;a href=&quot;http://mirobor.pl/&quot;&gt;Mirosława Boruty&lt;/a&gt; z firmy &lt;a href=&quot;http://objectreload.com/&quot;&gt;Object Reload&lt;/a&gt; o bazie danych &lt;a href=&quot;http://redis.io/&quot;&gt;Redis&lt;/a&gt;. Przedstawi on m.in. zastosowanie Redisa w projektach webowych jako zamiennika zwykłej bazy &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt;-owej.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&amp;#8220;Rails od środka&amp;#8221;&lt;/strong&gt; &amp;#8211; &lt;a href=&quot;http://piotrsarnacki.com/&quot;&gt;Piotr Sarnacki&lt;/a&gt; omówi &amp;#8220;wnętrzności&amp;#8221; frameworka &lt;a href=&quot;http://rubyonrails.com/&quot;&gt;Ruby on Rails&lt;/a&gt;. Prezentacja jest adresowana do osób, które zawsze były ciekawe co w Railsach piszczy. Drogus otworzy kod z chirurgiczną precyzją i zademonstruje jego najbardziej smakowite kąski.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Między tymi dwiema prezentacjami będzie miejsce na krótkie (pięciominutowe) &lt;a href=&quot;http://en.wikipedia.org/wiki/Lightning_Talk&quot;&gt;lightning talks&lt;/a&gt;. W związku z tym gorąco zachęcamy do przygotowania własnych &amp;#8220;miniprezentacji&amp;#8221;.&lt;/p&gt;
 &lt;p&gt;Przypominamy także o konieczności wypełnienia formularza rejestracyjnego, znajdującego się w artykule poniżej, w celu rezerwacji miejsca.&lt;/p&gt;</content>
