@@ -4,13 +4,28 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-01-26T13:19:09+01:00</updated>
+ <updated>2011-02-01T20:11:33+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Propozycja noclegów</title>
+   <link href="http://srug.pl/article/2011/02/01/propozycja-noclegow.html"/>
+   <updated>2011-02-01T00:00:00+01:00</updated>
+   <id>http://srug.pl/article/2011/02/01/propozycja-noclegow</id>
+   <content type="html">&lt;p&gt;Dla osób, które nie mają jak wrócić do domu po spotkaniu, przygotowaliśmy propozycję noclegów w Domie Gościnnym Politechniki Śląskiej &amp;#8220;Sezam&amp;#8221;:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Pokój 1-os: 120 zł&lt;/li&gt;
+	&lt;li&gt;Apartament 1-os: 180 zł&lt;/li&gt;
+	&lt;li&gt;Pokój 2-os: 170 zł&lt;/li&gt;
+	&lt;li&gt;Apartament 2-os: 240 zł&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dom Gościnny &amp;#8220;Sezam&amp;#8221; znajduje się na ul. Pszczyńskiej 89a, ok. 20 minut pieszo od pubu Gramofon. W cenę wliczone jest śniadanie. Rezerwacji można dokonywać pod numerem 322372307.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Lista prezentacji lutowego spotkania</title>
