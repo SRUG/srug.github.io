@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-p. Dla osób, które nie mają jak wrócić do domu po spotkaniu, przygotowaliśmy propozycję noclegów w Domie Gościnnym Politechniki Śląskiej "Sezam":
+p. Dla osób, które nie mają jak wrócić do domu po spotkaniu, przygotowaliśmy propozycję noclegów w Domu Gościnnym Politechniki Śląskiej "Sezam":
 
 * Pokój 1-os: 120 zł
 * Apartament 1-os: 180 zł
