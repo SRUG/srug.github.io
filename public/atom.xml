@@ -4,13 +4,22 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-02-01T20:16:36+01:00</updated>
+ <updated>2011-02-20T23:05:04+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Lutowe spotkanie - podsumowanie</title>
+   <link href="http://srug.pl/article/2011/02/20/lutowe-spotkanie-podsumowanie.html"/>
+   <updated>2011-02-20T00:00:00+01:00</updated>
+   <id>http://srug.pl/article/2011/02/20/lutowe-spotkanie-podsumowanie</id>
+   <content type="html">&lt;p&gt;Kolejny raz dziękujemy wszystkim przybyłym na spotkanie &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;. Formularz rejestracyjny wypełniło 36 osób, z czego około 30 zjawiło się na wczorajszym spotkaniu. Dziękujemy również wszystkim prezentującym: &lt;a href=&quot;http://srug.pl/assets/miroslaw-boruta-redis-wprowadzenie.pdf&quot;&gt;Mirkowi Borucie za omówienie podstaw działania bazy Redis&lt;/a&gt;, &lt;a href=&quot;http://srug.pl/assets/michal-czyz-beyond-cucumber.pdf&quot;&gt;Michałowi Czyżowi&lt;/a&gt;, &lt;a href=&quot;http://srug.pl/assets/tomasz-borowski-generating-beautiful-pdf-files.pdf&quot;&gt;Tomaszowi Borowskiemu&lt;/a&gt; i &lt;a href=&quot;http://srug.pl/assets/andrzej-krzywda-rails-and-dci.txt&quot;&gt;Andrzejowi Krzywdzie&lt;/a&gt; za przedstawienie krótkich &amp;#8220;lightning talków&amp;#8221;. Mamy nadzieję, że dzięki tym kilku ciekawym prezentacjom dość dobrze udało nam się wypełnić lukę spowodowaną nieobecnością Drogusa.&lt;/p&gt;
+&lt;p&gt;Według wstępnych ustaleń, kolejne spotkanie &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt; odbędzie się w kwietniu lub maju.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Propozycja noclegów</title>
