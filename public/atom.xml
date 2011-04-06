@@ -4,7 +4,7 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-04-06T09:37:01+02:00</updated>
+ <updated>2011-04-06T10:13:30+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
@@ -18,12 +18,12 @@
    <updated>2011-04-06T00:00:00+02:00</updated>
    <id>http://srug.pl/article/2011/04/06/szczegoly-dotyczace-kwietniowego-spotkania</id>
    <content type="html">&lt;p&gt;Kwietniowe spotkanie &lt;a href=&quot;http://srug.pl/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;&lt;/a&gt; odbędzie się &lt;strong&gt;16 kwietnia 2011, o godzinie 17:00&lt;/strong&gt; w restauracji &lt;a href=&quot;http://www.starybrowar.gliwice.pl/&quot;&gt;Stary Browar&lt;/a&gt;, w Gliwicach przy ulicy Piwnej 1b. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.&lt;/p&gt;
-&lt;p&gt;Do chwili obecnej zgłoszone zostały dwie prezentacje:&lt;/p&gt;
+&lt;p&gt;Zgłoszone zostały dwie prezentacje:&lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;&amp;#8220;Sentiment Analysis&amp;#8221; &amp;#8211; prezentacja Mateusza Drożdżyńskiego z firmy &lt;a href=&quot;http://objectreload.com/&quot;&gt;Object Reload&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&amp;#8220;Sentiment Analysis in Ruby&amp;#8221; &amp;#8211; prezentacja Mateusza Drożdżyńskiego z firmy &lt;a href=&quot;http://objectreload.com/&quot;&gt;Object Reload&lt;/a&gt; o implementacji w języku Ruby programu do &lt;a href=&quot;http://en.wikipedia.org/wiki/Sentiment_analysis&quot;&gt;analizy sentymentu&lt;/a&gt; wiadomości pochodzących z serwisu &lt;a href=&quot;http://twitter.com/&quot;&gt;Twitter&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-	&lt;li&gt;&amp;#8220;JRuby &amp;#8211; wprowadzenie&amp;#8221; &amp;#8211; prezentacja Marka Kowalcze z firmy &lt;a href=&quot;http://www.antennasoftware.com/&quot;&gt;Antenna Software&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&amp;#8220;JRuby &amp;#8211; wprowadzenie&amp;#8221; &amp;#8211; prezentacja Marka Kowalcze z firmy &lt;a href=&quot;http://www.antennasoftware.com/&quot;&gt;Antenna Software&lt;/a&gt;, będąca wprowadzeniem do implementacji języka Ruby dla wirtualnej maszyny Javy (&lt;a href=&quot;http://pl.wikipedia.org/wiki/Wirtualna_maszyna_Javy&quot;&gt;&lt;span class=&quot;caps&quot;&gt;JVM&lt;/span&gt;&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Podobnie jak poprzednim razem, będzie sporo czasu na przedstawienie krótkich prezentacji (lightning talks). Po prezentacjach zachęcamy do pozostania na afterparty, które odbędzie się w tym samym miejscu.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Zapraszamy!&lt;/strong&gt;&lt;/p&gt;
