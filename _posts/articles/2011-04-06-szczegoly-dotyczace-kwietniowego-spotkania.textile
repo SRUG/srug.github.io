@@ -1,0 +1,24 @@
+---
+layout: post
+title: Szczegóły dotyczące kwietniowego spotkania
+author: Kuba
+categories: ["article"]
+---
+
+p. Kwietniowe spotkanie "SRUG":http://srug.pl/ odbędzie się *16 kwietnia 2011, o godzinie 17:00* w restauracji "Stary Browar":http://www.starybrowar.gliwice.pl/, w Gliwicach przy ulicy Piwnej 1b. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.
+
+p. Do chwili obecnej zgłoszone zostały dwie prezentacje:
+
+* "Sentiment Analysis" - prezentacja Mateusza Drożdżyńskiego z firmy "Object Reload":http://objectreload.com/
+
+* "JRuby - wprowadzenie" - prezentacja Marka Kowalcze z firmy "Antenna Software":http://www.antennasoftware.com/
+
+p. Podobnie jak poprzednim razem, będzie sporo czasu na przedstawienie krótkich prezentacji (lightning talks). Po prezentacjach zachęcamy do pozostania na afterparty, które odbędzie się w tym samym miejscu.
+
+p. *Zapraszamy!*
+
+<iframe src="https://spreadsheets.google.com/embeddedform?formkey=dGk2RWkwV1M1QXZiMmhVZndfNWFvZmc6MA&hl=pl" width="474" height="730" frameborder="0" marginheight="0" marginwidth="0">Ładowanie...</iframe>
+
+"!http://maps.google.com/maps/api/staticmap?center=50.298257,18.678064&zoom=15&markers=color:red|label:A|50.298257,18.678064&size=474x450&sensor=false!":http://maps.google.com/maps?hl=pl&geocode=&q=Piwna+1b+Gliwice&ll=50.298257,18.678064&z=14
+
+"!/assets/srug7.png!":/assets/srug7.pdf

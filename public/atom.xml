@@ -4,13 +4,33 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-04-02T10:11:19+02:00</updated>
+ <updated>2011-04-06T09:37:01+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Szczegóły dotyczące kwietniowego spotkania</title>
+   <link href="http://srug.pl/article/2011/04/06/szczegoly-dotyczace-kwietniowego-spotkania.html"/>
+   <updated>2011-04-06T00:00:00+02:00</updated>
+   <id>http://srug.pl/article/2011/04/06/szczegoly-dotyczace-kwietniowego-spotkania</id>
+   <content type="html">&lt;p&gt;Kwietniowe spotkanie &lt;a href=&quot;http://srug.pl/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;&lt;/a&gt; odbędzie się &lt;strong&gt;16 kwietnia 2011, o godzinie 17:00&lt;/strong&gt; w restauracji &lt;a href=&quot;http://www.starybrowar.gliwice.pl/&quot;&gt;Stary Browar&lt;/a&gt;, w Gliwicach przy ulicy Piwnej 1b. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.&lt;/p&gt;
+&lt;p&gt;Do chwili obecnej zgłoszone zostały dwie prezentacje:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;Sentiment Analysis&amp;#8221; &amp;#8211; prezentacja Mateusza Drożdżyńskiego z firmy &lt;a href=&quot;http://objectreload.com/&quot;&gt;Object Reload&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;JRuby &amp;#8211; wprowadzenie&amp;#8221; &amp;#8211; prezentacja Marka Kowalcze z firmy &lt;a href=&quot;http://www.antennasoftware.com/&quot;&gt;Antenna Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Podobnie jak poprzednim razem, będzie sporo czasu na przedstawienie krótkich prezentacji (lightning talks). Po prezentacjach zachęcamy do pozostania na afterparty, które odbędzie się w tym samym miejscu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zapraszamy!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://spreadsheets.google.com/embeddedform?formkey=dGk2RWkwV1M1QXZiMmhVZndfNWFvZmc6MA&amp;hl=pl&quot; width=&quot;474&quot; height=&quot;730&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Ładowanie&amp;#8230;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://maps.google.com/maps?hl=pl&amp;amp;geocode=&amp;amp;q=Piwna+1b+Gliwice&amp;amp;ll=50.298257,18.678064&amp;amp;z=14&quot;&gt;&lt;img src=&quot;http://maps.google.com/maps/api/staticmap?center=50.298257,18.678064&amp;amp;zoom=15&amp;amp;markers=color:red|label:A|50.298257,18.678064&amp;amp;size=474x450&amp;amp;sensor=false&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/srug7.pdf&quot;&gt;&lt;img src=&quot;/assets/srug7.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Kwietniowe spotkanie</title>
