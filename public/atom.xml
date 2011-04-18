@@ -4,13 +4,22 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-04-06T10:13:30+02:00</updated>
+ <updated>2011-04-18T11:10:01+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Podsumowanie kwietniowego spotkania</title>
+   <link href="http://srug.pl/article/2011/04/18/podsumowanie-kwietniowego-spotkania.html"/>
+   <updated>2011-04-18T00:00:00+02:00</updated>
+   <id>http://srug.pl/article/2011/04/18/podsumowanie-kwietniowego-spotkania</id>
+   <content type="html">&lt;p&gt;Kolejny raz dziękujemy wszystkim przybyłym na spotkanie &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;. Niższa niż zwykle frekwencja została zrekompensowana zaangażowaniem w zadawanie pytań prezentującym, przez co całość miała ciekawszą, bardziej interaktywną formę.&lt;/p&gt;
+&lt;p&gt;Dziękujemy również wszystkim prezentującym: &lt;a href=&quot;http://kowal.github.com/srug-jruby/&quot;&gt;Markowi Kowalcze za wprowadzenie do JRuby&lt;/a&gt;, &lt;a href=&quot;http://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf&quot;&gt;Mateuszowi Drożdżyńskiemu za prezentację o analizie sentymentu w Ruby&lt;/a&gt; oraz &lt;a href=&quot;http://srug.pl/assets/michal-krzyzanowski-pow.pdf&quot;&gt;Michałowi Krzyżanowskiemu&lt;/a&gt;,  &lt;a href=&quot;http://srug.pl/assets/kamil-szewczyk-devmeetings-pl&quot;&gt;Kamilowi Szewczykowi&lt;/a&gt; i &lt;a href=&quot;http://srug.pl/assets/wojciech-wnetrzak-winnie-cloud.pdf&quot;&gt;Wojtkowi Wnętrzakowi&lt;/a&gt; za przedstawienie krótkich &amp;#8220;lightning talków&amp;#8221;.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Szczegóły dotyczące kwietniowego spotkania</title>
