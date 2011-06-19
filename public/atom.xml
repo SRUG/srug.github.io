@@ -4,13 +4,35 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-05-31T10:46:45+02:00</updated>
+ <updated>2011-06-19T22:36:37+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Czerwcowe Spotkanie</title>
+   <link href="http://srug.pl/article/2011/06/19/spotkanie-czerwcowe-w-bielsku.html"/>
+   <updated>2011-06-19T00:00:00+02:00</updated>
+   <id>http://srug.pl/article/2011/06/19/spotkanie-czerwcowe-w-bielsku</id>
+   <content type="html">&lt;p&gt;Czerwcowe spotkanie &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt; odbędzie się &lt;strong&gt;25 czerwca 2011, o godzinie 17:00&lt;/strong&gt; w &lt;a href=&quot;http://www.ykpb.pl/&quot;&gt;Yacht Klub Polski Bielsko&lt;/a&gt;, w Bielsku-Białej przy ulicy Szkolnej 15. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.&lt;/p&gt;
+&lt;p&gt;Podczas spotkania przedstawione zostaną prezentacje:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;CSS3/JS&amp;#8221; &amp;#8211; sposób na wydajne animacje na platformach mobilnych &amp;#8211; prezentacja Rafała Bromirskiego z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; na temat możliwości języka CSS3 w animacji.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;User Center Design a Rails&amp;#8217;y&amp;#8221; &amp;#8211; prezentacja Michała Czyża z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; o specifikacji, ale bez Gherkin&amp;#8217;a, formalizacji wymagań i ludziach którzy chcą &lt;a href=&quot;http://www.slideshare.net/m_mazur/about-user-stories-euruko-2011/15&quot;&gt;skrzywdzić &amp;#8216;ogórka&amp;#8217;&lt;/a&gt; :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;acts_as_deep_cloneable&amp;#8221; &amp;#8211; sposób na głębokie klonowanie obiektów &amp;#8211; prezentacja Tomasza Borowskiego z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; na temat autorskiego pluginu do klonowania obiektów z ich relacjami w ActiveRecord&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tak jak się to już stało zwyczajem będzie sporo czasu na przedstawienie krótkich prezentacji (lightning talks).&lt;/p&gt;
+&lt;p&gt;Po prezentacjach zachęcamy do pozostania na afterparty, które odbędzie się w tym samym miejscu.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dEJGT2lyNHpxTXM4eFJtV1Fvay0zR0E6MQ&quot; width=&quot;474&quot; height=&quot;500&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading&amp;#8230;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://maps.google.com/maps?hl=pl&amp;amp;geocode=&amp;amp;q=Yacht+Klub+Polski+Bielsko&amp;amp;ll=49.823505,19.055185&amp;amp;z=14&quot;&gt;&lt;img src=&quot;http://maps.google.com/maps/api/staticmap?center=49.823505,19.055185&amp;amp;zoom=15&amp;amp;markers=color:red|label:A|49.823505,19.055185&amp;amp;size=474x450&amp;amp;sensor=false&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Czerwiec 2011</title>
