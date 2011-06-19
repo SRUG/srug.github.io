@@ -4,7 +4,7 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-06-19T22:36:37+02:00</updated>
+ <updated>2011-06-19T23:36:39+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
@@ -23,7 +23,7 @@
 	&lt;li&gt;&amp;#8220;CSS3/JS&amp;#8221; &amp;#8211; sposób na wydajne animacje na platformach mobilnych &amp;#8211; prezentacja Rafała Bromirskiego z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; na temat możliwości języka CSS3 w animacji.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-	&lt;li&gt;&amp;#8220;User Center Design a Rails&amp;#8217;y&amp;#8221; &amp;#8211; prezentacja Michała Czyża z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; o specifikacji, ale bez Gherkin&amp;#8217;a, formalizacji wymagań i ludziach którzy chcą &lt;a href=&quot;http://www.slideshare.net/m_mazur/about-user-stories-euruko-2011/15&quot;&gt;skrzywdzić &amp;#8216;ogórka&amp;#8217;&lt;/a&gt; :)&lt;/li&gt;
+	&lt;li&gt;&amp;#8220;Usage-Centred Design a Rails&amp;#8217;y&amp;#8221; &amp;#8211; prezentacja Michała Czyża z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; o specifikacji, ale bez Gherkin&amp;#8217;a, formalizacji wymagań i ludziach którzy chcą &lt;a href=&quot;http://www.slideshare.net/m_mazur/about-user-stories-euruko-2011/15&quot;&gt;skrzywdzić &amp;#8216;ogórka&amp;#8217;&lt;/a&gt; :)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
 	&lt;li&gt;&amp;#8220;acts_as_deep_cloneable&amp;#8221; &amp;#8211; sposób na głębokie klonowanie obiektów &amp;#8211; prezentacja Tomasza Borowskiego z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; na temat autorskiego pluginu do klonowania obiektów z ich relacjami w ActiveRecord&lt;/li&gt;
