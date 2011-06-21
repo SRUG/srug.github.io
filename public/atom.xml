@@ -4,7 +4,7 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-06-19T23:36:39+02:00</updated>
+ <updated>2011-06-21T08:10:43+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
@@ -21,6 +21,9 @@
 &lt;p&gt;Podczas spotkania przedstawione zostaną prezentacje:&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;&amp;#8220;CSS3/JS&amp;#8221; &amp;#8211; sposób na wydajne animacje na platformach mobilnych &amp;#8211; prezentacja Rafała Bromirskiego z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; na temat możliwości języka CSS3 w animacji.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;Rails &amp;#8211; kruczki i sztuczki&amp;#8221; &amp;#8211; prezentacja Zbigniewa Zemła z firmy &lt;a href=&quot;http://www.shorelabs.com&quot;&gt;Shore Labs&lt;/a&gt; który pokaże kilka praktycznych wskazówek związanych z językiem Ruby, frameworkiem Rails oraz konfiguracją serwera&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
 	&lt;li&gt;&amp;#8220;Usage-Centred Design a Rails&amp;#8217;y&amp;#8221; &amp;#8211; prezentacja Michała Czyża z firmy &lt;a href=&quot;http://www.selleo.com&quot;&gt;Selleo&lt;/a&gt; o specifikacji, ale bez Gherkin&amp;#8217;a, formalizacji wymagań i ludziach którzy chcą &lt;a href=&quot;http://www.slideshare.net/m_mazur/about-user-stories-euruko-2011/15&quot;&gt;skrzywdzić &amp;#8216;ogórka&amp;#8217;&lt;/a&gt; :)&lt;/li&gt;

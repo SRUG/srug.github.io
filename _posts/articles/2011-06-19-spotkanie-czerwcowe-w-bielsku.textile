@@ -11,6 +11,8 @@ p. Podczas spotkania przedstawione zostaną prezentacje:
 
 * "CSS3/JS" - sposób na wydajne animacje na platformach mobilnych - prezentacja Rafała Bromirskiego z firmy "Selleo":http://www.selleo.com na temat możliwości języka CSS3 w animacji.
 
+* "Rails - kruczki i sztuczki" - prezentacja Zbigniewa Zemła z firmy "Shore Labs":http://www.shorelabs.com który pokaże kilka praktycznych wskazówek związanych z językiem Ruby, frameworkiem Rails oraz konfiguracją serwera 
+
 * "Usage-Centred Design a Rails'y" - prezentacja Michała Czyża z firmy "Selleo":http://www.selleo.com o specifikacji, ale bez Gherkin'a, formalizacji wymagań i ludziach którzy chcą "skrzywdzić 'ogórka'":http://www.slideshare.net/m_mazur/about-user-stories-euruko-2011/15 :)
 
 * "acts_as_deep_cloneable" - sposób na głębokie klonowanie obiektów - prezentacja Tomasza Borowskiego z firmy "Selleo":http://www.selleo.com na temat autorskiego pluginu do klonowania obiektów z ich relacjami w ActiveRecord
