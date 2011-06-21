@@ -15,6 +15,8 @@ p. Podczas spotkania przedstawione zostaną prezentacje:
 
 * "Usage-Centred Design a Rails'y" - prezentacja Michała Czyża z firmy "Selleo":http://www.selleo.com o specifikacji, ale bez Gherkin'a, formalizacji wymagań i ludziach którzy chcą "skrzywdzić 'ogórka'":http://www.slideshare.net/m_mazur/about-user-stories-euruko-2011/15 :)
 
+* ""Inherited Resources":https://github.com/josevalim/inherited_resources with Rails 3.1" - Prezentacja Tomka Bąka z firmy "Selleo":http://www.selleo.com na temat modułów standaryzujących kontrolery (aka CommnoResource) oraz dziedziczenie widoków i zagnieżdżone layouty (całość oparte o framework Rails w wersji 3.1).
+
 * "acts_as_deep_cloneable" - sposób na głębokie klonowanie obiektów - prezentacja Tomasza Borowskiego z firmy "Selleo":http://www.selleo.com na temat autorskiego pluginu do klonowania obiektów z ich relacjami w ActiveRecord
 
 p. Tak jak się to już stało zwyczajem będzie sporo czasu na przedstawienie krótkich prezentacji (lightning talks).
