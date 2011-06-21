@@ -4,13 +4,36 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-06-21T12:43:56+02:00</updated>
+ <updated>2011-06-21T23:07:02+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Ruby Hacking w Yacht Klubie</title>
+   <link href="http://srug.pl/article/2011/06/21/ruby-hacking-w-yacht-clubie.html"/>
+   <updated>2011-06-21T00:00:00+02:00</updated>
+   <id>http://srug.pl/article/2011/06/21/ruby-hacking-w-yacht-clubie</id>
+   <content type="html">&lt;p&gt;W najbliższą sobotę &lt;strong&gt;25 czerwca, o godzinie 11:00&lt;/strong&gt; organizujemy warsztaty Ruby on Rails &amp;#8211; temat przewodni reusability &amp;#8211; &lt;a href=&quot;http://edgeapi.rubyonrails.org/classes/Rails/Engine.html&quot;&gt;Rails Engines&lt;/a&gt; w Rails 3.1. Odbędą się one w &lt;a href=&quot;http://www.ykpb.pl/&quot;&gt;Yacht Klub Polski Bielsko&lt;/a&gt;, w Bielsku-Białej przy ulicy Szkolnej 15 &amp;#8211; to samo miejsce w którym o 17:00 rozpocznie sie &lt;a href=&quot;http://srug.pl/article/2011/06/19/spotkanie-czerwcowe-w-bielsku.html&quot;&gt;spotkanie &lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;&lt;/a&gt;. Wstęp wolny &amp;#8211; prosimy tylko o wypełnienie formularza rejestracyjnego.&lt;/p&gt;
+&lt;p&gt;Plan warsztatów:&lt;/p&gt;
+&lt;p&gt;Panel Dyskusyjny&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;krótkie wprowadzenie do &lt;a href=&quot;http://edgeapi.rubyonrails.org/classes/Rails/Engine.html&quot;&gt;Rails Engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;o komponentach i co czyni je wartościowymi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hacking&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;praktyczne projektowanie komponentu, z uwzględnieniem istniejącychi podobnych rozwiązań&lt;/li&gt;
+	&lt;li&gt;implementacja&lt;/li&gt;
+	&lt;li&gt;użycie komponentu conajmniej w dwóch różnych aplikacjach &amp;#8211; w przypadku jednej będzie potrzebna zmiana domyślnego zachowania&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gdyby ktoś był chętny aby zbudować coś podobnego w jednym z Python&amp;#8217;owych frameworków &amp;#8211; lub dowolnej innej technologi &amp;#8211; to przywitamy go piwem i pizzą :). Spewnością wymiana doświadczeń będzie wartościowa dla wszystkich.&lt;/p&gt;
+&lt;p&gt;Wszyscy którzy się zarejestrują otrzymają wiecej technicznych szczegółów bezpośrednio na maila.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dHhEZHJEczUxcUZGZm1BN0d2OEdpakE6MQ&quot; width=&quot;476&quot; height=&quot;700&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading&amp;#8230;&lt;/iframe&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Czerwcowe Spotkanie</title>
