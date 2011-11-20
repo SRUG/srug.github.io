@@ -4,13 +4,33 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-11-10T10:04:59+01:00</updated>
+ <updated>2011-11-20T22:18:03+01:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Szczegóły dotyczące listopadowego spotkania</title>
+   <link href="http://srug.pl/article/2011/11/20/szczegoly-dotyczace-listopadowego-spotkania.html"/>
+   <updated>2011-11-20T00:00:00+01:00</updated>
+   <id>http://srug.pl/article/2011/11/20/szczegoly-dotyczace-listopadowego-spotkania</id>
+   <content type="html">&lt;p&gt;Kolejne spotkanie &lt;a href=&quot;http://srug.pl/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SRUG&lt;/span&gt;&lt;/a&gt; odbędzie się &lt;strong&gt;25 listopada 2011, o godzinie 18:30&lt;/strong&gt; w Maszynowni (budynku nr 4), w Gliwicach przy ulicy Bojkowskiej 37. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie odpowiedniej liczby miejsc.&lt;/p&gt;
+&lt;p&gt;Zgłoszone zostały dwie prezentacje:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;TorqueBox &amp;#8211; Ruby na sterydach&amp;#8221; &amp;#8211; prezentacja &lt;a href=&quot;http://www.goldmann.pl/&quot;&gt;Marka Goldmanna&lt;/a&gt; z firmy &lt;a href=&quot;http://www.redhat.com/&quot;&gt;Red Hat&lt;/a&gt; o platformie &lt;a href=&quot;http://torquebox.org/&quot;&gt;TorqueBox&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;&amp;#8220;Lisp &amp;#8211; wprowadzenie&amp;#8221; &amp;#8211; prezentacja &lt;a href=&quot;http://jah.pl/&quot;&gt;Jakuba Kuźmy&lt;/a&gt;, będąca krótkim wprowadzeniem do języka programowania &lt;a href=&quot;http://pl.wikipedia.org/wiki/Lisp&quot;&gt;Lisp&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tradycyjnie będzie sporo czasu na przedstawienie krótkich prezentacji (lightning talks). Po prezentacjach przeniesiemy się do pobliskiego pubu (CD, na ulicy Pszczyńskiej), gdzie będziemy kontynuować dyskusje przy zimnym piwku.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zapraszamy!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://docs.google.com/spreadsheet/embeddedform?formkey=dDBRck1ycEZDaVh1NTE3TktsZzdJZ3c6MA&amp;hl=pl&quot; width=&quot;474&quot; height=&quot;730&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Ładowanie&amp;#8230;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=50.277109,18.682852+(SRUG+-+Bojkowska+37)&amp;amp;sll=50.277109,18.682852&amp;amp;sspn=0.022407,0.055747&amp;amp;ie=UTF8&amp;amp;z=14&quot;&gt;&lt;img src=&quot;http://maps.google.com/maps/api/staticmap?center=50.286268,18.672552&amp;amp;zoom=14&amp;amp;markers=color:red|label:A|50.277109,18.682852&amp;amp;path=color:0x0000FF80|weight:5|50.27491,18.68457&amp;amp;size=474x450&amp;amp;sensor=false&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/srug8.pdf&quot;&gt;&lt;img src=&quot;/assets/srug8.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Listopadowe spotkanie</title>
