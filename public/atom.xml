@@ -4,13 +4,24 @@
  <title>SRUG</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
- <updated>2011-11-20T22:18:03+01:00</updated>
+ <updated>2012-06-24T12:32:18+02:00</updated>
  <id>http://srug.pl/</id>
  <author>
    <name>Silesian Ruby Users' Group</name>
    <email>admin@srug.pl</email>
  </author>
 
+ 
+ <entry>
+   <title>Lipcowe spotkanie</title>
+   <link href="http://srug.pl/article/2012/06/24/lipcowe-spotkanie.html"/>
+   <updated>2012-06-24T00:00:00+02:00</updated>
+   <id>http://srug.pl/article/2012/06/24/lipcowe-spotkanie</id>
+   <content type="html">&lt;p&gt;Po długiej przerwie, tym razem zapraszamy do Żywca. Spotkanie odbędzie się &lt;strong&gt;28 lipca (w sobotę)&lt;/strong&gt; w godzinach wieczornych. Prezentacje oraz późniejsza piwna dyskusja będą miały miejsce w nowo otwartym minibrowarze &lt;strong&gt;Krajcar&lt;/strong&gt; znajdującym się na ulicy Świętokrzyskiej 8.&lt;/p&gt;
+&lt;p&gt;Czekamy na zgłoszenia tematów osób chętnych do poprowadzenia prezentacji. Piszcie na &lt;a href=&quot;mailto:spotkania@srug.pl&quot;&gt;naszego maila&lt;/a&gt; lub na &lt;a href=&quot;http://groups.google.com/group/silesian-ruby-user-group&quot;&gt;grupie dyskusyjnej&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jeśli pogoda dopisze, to na drugi dzień możemy wybrać się nad pobliskie jezioro Żywieckie popływać na kajakach lub żaglówce (o ile znajdzie się posiadacz patentu żeglarskiego).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do zobaczenia wkrótce!&lt;/strong&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Szczegóły dotyczące listopadowego spotkania</title>
