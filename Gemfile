@@ -1,6 +1,4 @@
-source :rubygems
+source "https://rubygems.org"
 
-gem "heroku"
-gem "sinatra"
 gem "jekyll"
 gem "RedCloth"
