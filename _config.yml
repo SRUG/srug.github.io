@@ -1,8 +1,8 @@
-destination: public
+destination: _site
 auto:        true
 lsi:         false
 server_port: 4000
 pygments:    false
 markdown:    maruku
 permalink:   date
-exclude:     Gemfile, Gemfile.lock, app.rb, config.ru
+exclude:     Gemfile, Gemfile.lock
