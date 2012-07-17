@@ -1,0 +1,28 @@
+---
+layout: post
+title: Szczegóły lipcowego spotkania
+author: Wojtek
+categories: ["article"]
+---
+
+p. Spotkanie odbędzie się *28 lipca* (w sobotę) o godzinie *19:00* w klimatyzowanej sali żywieckiego minibrowaru „Krajcar”, znajdującego się na ulicy *Świętokrzyskiej 8*. Wstęp jak zawsze bezpłatny.
+
+p. Przedstawione zostaną 3 prezentacje:
+
+* *„HTTP caching in Rails”* — prezentacja Szymona Nowaka na temat najlepszych sposobów cachowania
+* *„Single Page Applications with CoffeeScript”* — prezentacja "Andrzeja Krzywdy":http://andrzejonsoftware.blogspot.com/ podparta produkcyjnym kodem zaczerpniętym z gier tworzonych przez "GameBoxed":http://gameboxed.com/
+* *„Ruboto - wprowadzenie”* — prezentacja Agnieszki Matysek z firmy "Fractal Soft":http://fractalsoft.org/, będąca wprowadzeniem do języka Ruby na platformie Android
+
+p. Po ich zakończeniu będziemy mieć czas na tzw. lighting talki oraz piwne dyskusje rozwijające poruszone tematy.
+
+p. Jeśli ktoś chciałby przedłużyć pobyt w górskich klimatach, to na drugi dzień wybieramy się nad pobliskie jezioro żywieckie popływać na żaglówce i kajakach. Do tej pory zgłosiła się jedna osoba z patentem żeglarskim. Jeśli ktoś z Was posiada jeszcze takowy, niech da nam o tym znać i nie zapomni zabrać go ze sobą.
+
+p. Nocleg możecie znaleźć w sąsiednim do minibrowaru, hotelu "Roma":http://www.hotelroma.pl (powołajcie się na SRUG i spotkanie programistów). W ten weekend odbywa się również Tydzień Kultury Beskidziej, więc najlepiej nie zwlekać z rezerwacją.
+
+p. Prosimy o wypełnienie formularza rejestracyjnego - ułatwi nam to zorganizowanie odpowiedniej liczby miejsc w lokalu.
+
+p. *Do zobaczenia*
+
+<iframe src="https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dEhnV2ZoUTJKTm95eTY2TS1uQlRrU3c6MQ" width="474" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=pl&amp;geocode=&amp;q=%C5%BCywiec+%C5%9Bwi%C4%99tokrzyska+8&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=57.510723,114.169922&amp;ie=UTF8&amp;hq=&amp;hnear=%C5%9Awi%C4%99tokrzyska+8,+%C5%BBywiec,+%C5%BCywiecki,+%C5%9Bl%C4%85skie,+Polska&amp;t=m&amp;ll=49.689233,19.199123&amp;spn=0.019434,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=pl&amp;geocode=&amp;q=%C5%BCywiec+%C5%9Bwi%C4%99tokrzyska+8&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=57.510723,114.169922&amp;ie=UTF8&amp;hq=&amp;hnear=%C5%9Awi%C4%99tokrzyska+8,+%C5%BBywiec,+%C5%BCywiecki,+%C5%9Bl%C4%85skie,+Polska&amp;t=m&amp;ll=49.689233,19.199123&amp;spn=0.019434,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Wyświetl większą mapę</a></small>
