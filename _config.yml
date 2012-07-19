@@ -5,4 +5,4 @@ server_port: 4000
 pygments:    false
 markdown:    maruku
 permalink:   date
-exclude:     Gemfile, Gemfile.lock, README.md
+exclude:     Gemfile, Gemfile.lock, README.md, CNAME
