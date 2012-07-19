@@ -1,0 +1,12 @@
+---
+layout: post
+title: Lipcowy plakat
+author: Wojtek
+categories: ["article"]
+---
+
+p. Autorem plakatu jest *Maciej Jarczok*.
+
+h5=. "!/assets/srug-2012-07-28.png!":/assets/srug-2012-07-28.pdf
+
+p. *Do zobaczenia w Żywcu!*
