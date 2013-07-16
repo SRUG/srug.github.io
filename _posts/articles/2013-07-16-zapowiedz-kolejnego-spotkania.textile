@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-p. Zdajemy sobie sprawę z tego, że ostatnio nasze spotkania odbywają się rzadziej niż miało to miejsce rok, czy dwa lata temu. Przyczyn jest z pewnością wiele, ale na pewno nie należy do nich przesiadka na PHP, Javę czy Pythona! Wręcz przeciwnie -- dalej używamy Rubiego tam gdzie tylko się da. Oczywiście nie zapominamy także o rubiowych konferencjach, na których bywamy regularnie. Z EuRuKo -- najważniejszej europejskiej konferencji, tradycyjnie przywozimy wam gorące pozdrowienia od Matza.
+p. Zdajemy sobie sprawę z tego, że ostatnio nasze spotkania odbywają się rzadziej niż miało to miejsce rok, czy dwa lata temu. Przyczyn jest z pewnością wiele, ale na pewno nie należy do nich przesiadka na PHP, Javę czy Pythona! Wręcz przeciwnie -- dalej używamy Rubiego tam gdzie tylko się da. Oczywiście nie zapominamy także o rubiowych konferencjach, na których bywamy regularnie. Z EuRuKo, najważniejszej europejskiej konferencji, tradycyjnie przywozimy wam gorące pozdrowienia od Matza.
 
 h5=. !/assets/matz-4.jpg!
 
