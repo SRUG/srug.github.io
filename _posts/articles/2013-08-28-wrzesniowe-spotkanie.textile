@@ -18,4 +18,4 @@ p. Do zobaczenia!
 
 <iframe style="width:100%; min-height:700px; border: 1px solid #ddd;" src="https://spreadsheets.google.com/spreadsheet/embeddedform?hl=pl&formkey=dHdPN1RZejctRUtKVnVTRkNnejlxZHc6MA" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 
-<iframe style="width:100%; min-height:400px; border: 1px solid #ddd;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=19.016175,50.252206,19.019979,50.254552&layer=mapnik&marker=50.25331,19.01792&zoom=12">Ładuję…</iframe>
+<iframe style="width:100%; min-height:400px; border: 1px solid #ddd;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?lat=50.25331&lng=19.01792&layer=mapnik&marker=50.25331,19.01792&zoom=12">Ładuję…</iframe>
