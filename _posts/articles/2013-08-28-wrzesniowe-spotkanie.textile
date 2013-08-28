@@ -16,6 +16,6 @@ p. Prosimy o wypełnienie formularza rejestracyjnego - ułatwi nam to zorganizow
 
 p. Do zobaczenia!
 
-<iframe style="width:100%; min-height:700px; border: 1px solid #ddd;" src="https://spreadsheets.google.com/spreadsheet/embeddedform?hl=pl&formkey=dHdPN1RZejctRUtKVnVTRkNnejlxZHc6MA" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<iframe style="width:100%; min-height:700px;" src="https://spreadsheets.google.com/spreadsheet/embeddedform?hl=pl&formkey=dHdPN1RZejctRUtKVnVTRkNnejlxZHc6MA" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 
 "!http://maps.google.com/maps/api/staticmap?center=50.25334495637513,19.018224477767944&zoom=15&markers=color:red|label:A|50.25334495637513,19.018224477767944&path=color:0x0000FF80|weight:5|50.25334495637513,19.018224477767944&size=474x450&sensor=false!":http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=50.25334495637513,19.018224477767944&sll=50.277109,18.682852&sspn=0.022407,0.055747&ie=UTF8&z=15
