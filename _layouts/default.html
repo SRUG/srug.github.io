@@ -22,6 +22,7 @@
             <div id="maincol">
               <div id="mc2">
                 {% for post in site.categories.article limit:5 %}
+                  <!-- somehow jekyll is not displaying post without this fake comment content -->
                   {% include post.html %}
                 {% endfor %}
               </div>
