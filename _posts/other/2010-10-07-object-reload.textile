@@ -1,6 +1,0 @@
----
-name: Object Reload
-href: http://objectreload.com/
-logo: objectreload.png
-categories: ["company"]
----

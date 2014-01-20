@@ -1,29 +1,11 @@
-<div class="post">
-  <div class="post-title">
-    <h1>
-      <a href="{{ post.url }}" title="{{ post.title }}">
-        {{ post.title }}
-      </a>
-    </h1>
-  </div>
-  <p class="auth">dodał {{ post.author }},
-    <em>
-      {{ post.date | date: '%b' }}
-      <span>
-        {{ post.date | date: '%d' }}
-      </span>
-    </em>
-    dnia
-    <span class="typo_date">
-      {{ post.date | date: '%d/%m/%Y' }}
-    </span>
-  </p>
-  <div class="post-body">
-    {{ post.content }}
-  </div>
-  <p class="meta">
-    <a href="{{ post.url }}#disqus_thread">View Comments</a>
-  </p>
-</div>
-<div class="clear">
-</div>
+<article class="article">
+  <h2>
+    <a href="{{ post.url }}" title="{{ post.title }}">
+      {{ post.title }}
+    </a>
+  </h2>
+  <em class="text-muted">
+    opublikował {{ post.author }}, {{ post.date | date: '%d.%m.%Y' }}
+  </em>
+  {{ post.content }}
+</article>

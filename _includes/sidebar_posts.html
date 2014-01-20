@@ -1,8 +1,0 @@
-<div class="sidebar-node">
-  <h3>Artykuły</h3>
-  {% for post in site.categories.article %}
-  <ul class="dates">
-    <li><a href="{{ post.url }}"><span class="date">{{ post.date | date: '%d.%m' }}</span> {{ post.title }}</a></li>
-  </ul>
-  {% endfor %}
-</div>

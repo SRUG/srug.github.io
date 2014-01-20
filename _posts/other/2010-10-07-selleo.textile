@@ -1,6 +1,0 @@
----
-name: Selleo
-href: http://selleo.com/
-logo: selleo.png
-categories: ["company"]
----
