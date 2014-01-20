@@ -72,7 +72,7 @@ body {
 }
 
 .footer p {
-    margin-top: 280px;
+    margin-top: 260px;
 }
 
 .clouds {
@@ -132,7 +132,7 @@ body {
 }
 
 .x2 {
-    top: 400px;
+    top: 100px;
     -webkit-transform: scale(0.6);
     -moz-transform: scale(0.6);
     transform: scale(0.6);
