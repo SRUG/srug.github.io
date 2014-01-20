@@ -12,7 +12,7 @@
     <link href="/css/font-awesome.css" rel="stylesheet">
     <link href="/css/application.css" rel="stylesheet">
 
-    <link href="http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:400italic,500,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
     <link href="/atom.xml" rel="alternate" type="application/atom+xml" />
   </head>
@@ -27,29 +27,37 @@
         <div class="cloud x5"></div>
 
         <div class="container">
-          <h1 class="logo pull-left">
-            <a href="/">
-              <div class="line">Silesian</div>
-              <div class="line">Ruby</div>
-              <div class="line">Users</div>
-              <div class="line">Group</div>
-            </a>
-          </h1>
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              <h1 class="logo pull-left">
+                <a href="/">
+                  <div class="line">Silesian</div>
+                  <div class="line">Ruby</div>
+                  <div class="line">Users</div>
+                  <div class="line">Group</div>
+                </a>
+              </h1>
 
-          <nav class="nav text-right">
-            <ul class="list-inline">
-              <li><a href="mailto:spotkania@srug.pl"><i class="fa fa-envelope"></i></a></li>
-              <li><a href="https://github.com/SRUG"><i class="fa fa-github"></i></a></li>
-              <li><a href="https://twitter.com/srugpl"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="https://vimeo.com/srug"><i class="fa fa-vimeo-square"></i></a></li>
-            </ul>
-          </nav>
+              <nav class="nav text-right">
+                <ul class="list-inline">
+                  <li><a href="mailto:spotkania@srug.pl" title="Kontakt"><i class="fa fa-envelope"></i></a></li>
+                  <li><a href="https://github.com/SRUG" title="GitHub"><i class="fa fa-github"></i></a></li>
+                  <li><a href="https://twitter.com/srugpl" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                  <li><a href="https://vimeo.com/srug" title="Vimeo"><i class="fa fa-vimeo-square"></i></a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
         </div>
       </header>
 
       <section class="main">
         <div class="container">
-          {{ content }}
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              {{ content }}
+            </div>
+          </div>
         </div>
       </section>
 
@@ -57,10 +65,7 @@
     </div>
 
     <footer class="footer container">
-      <img src="/img/bg.png">
-      <p class="text-center">
-        &copy; 2014 Śląska Grupa Użytkowników języka Ruby
-      </p>
+      <img src="/img/bg.png" width="780">
     </footer>
 
     {% include google_analytics.html %}

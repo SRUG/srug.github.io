@@ -3,19 +3,26 @@ layout: default
 title: Archiwum
 ---
 
-<h2>
-  <a href="/archive.html">Archiwum</a>
-</h2>
+<article class="article">
+  <h2>
+    <a href="/archive.html">Archiwum</a>
+  </h2>
 
-<ul class="list-unstyled">
-  {% for post in site.categories.article %}
-    <li>
-      <time datetime="{{post.date}}">
-        {{ post.date | date: '%d.%m.%Y' }}
-      </time>
-      <a href="{{ post.url }}" title="{{ post.title }}">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+  <p>
+    <ul class="list-unstyled">
+      {% for post in site.categories.article %}
+        <li>
+          <time datetime="{{post.date}}">
+            {{ post.date | date: '%d.%m.%Y' }}
+          </time>
+
+          <i class="fa fa-angle-double-right text-muted"></i>
+
+          <a href="{{ post.url }}" title="{{ post.title }}">
+            {{ post.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </p>
+</article>
