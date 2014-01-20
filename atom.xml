@@ -4,24 +4,24 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>SRUG</title>
+ <title>SRUG - Śląska Grupa Użytkowników języka Ruby</title>
  <link href="http://srug.pl/atom.xml" rel="self"/>
  <link href="http://srug.pl/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://srug.pl/</id>
  <author>
-   <name>Silesian Ruby Users' Group</name>
+   <name>SRUG - Śląska Grupa Użytkowników języka Ruby</name>
    <email>admin@srug.pl</email>
  </author>
 
  {% for post in site.categories.article %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://srug.pl{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://srug.pl{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
+   <entry>
+     <title>{{ post.title }}</title>
+     <link href="http://srug.pl{{ post.url }}"/>
+     <updated>{{ post.date | date_to_xmlschema }}</updated>
+     <id>http://srug.pl{{ post.id }}</id>
+     <content type="html">{{ post.content | xml_escape }}</content>
+   </entry>
  {% endfor %}
 
 </feed>
