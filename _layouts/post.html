@@ -8,7 +8,7 @@ layout: default
     </a>
   </h2>
   <em class="text-muted">
-    wiadomość opublikował {{ page.author }}, {{ page.date | date: '%d.%m.%Y' }}
+    {{ page.author }} opublikował tę wiadomość <time datetime="{{ page.date }}">{{ page.date | polish_formatted_date }}</time>.
   </em>
   {{ content }}
 </article>
