@@ -1,0 +1,22 @@
+---
+layout: post
+title: SRUG 4.2014
+author: Kuba
+categories: ["article"]
+---
+
+Miło nam poinformować, że po niemalże półrocznej przerwie udało się ustalić termin kolejnego spotkania SRUG. Spotkanie odbędzie się *11 kwietnia 2014* w "Klubie muzycznym 4art":http://www.4artgliwice.pl w Gliwicach, na *ul. Wieczorka 22*. Prezentacje planujemy rozpocząć *o godzinie 18:00*, będą to:
+
+* *„Deep into Postgres”* -- "Michał Krzyżanowski":https://github.com/krzyzak i "Łukasz Strzebińczyk":https://github.com/KillaPL z firmy "Go Rails Go":http://gorailsgo.com/ opowiedzą nam o ciekawych funkcjach bazy danych "PostgreSQL":http://www.postgresql.org/, ułatwiających tworzenie aplikacji Ruby on Rails.
+* *„SOA w praktyce”* -- prezentacja "Mariusza Lusiaka":https://github.com/mariuszlusiak z firmy "Base CRM":https://getbase.com/ o implementacji "Service Oriented Architecture":http://en.wikipedia.org/wiki/Service-oriented_architecture z wykorzystaniem języka Ruby.
+* *„Odchudzanie ActiveRecord”* -- "Tomasz Stachewicz":https://github.com/tomash z firmy "Rebased":http://rebased.pl/ zaprezentuje szereg najlepszych kuracji odchudzających dla  ActiveRecord -- sposobów pozwalających na oddzielenie logiki biznesowej od modeli, popartych solidnymi przykładami.
+
+Po oficjalnych prezentacjach przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning talków”. Zachęcamy również wszystkich do pozostania w 4arcie po prezentacjach i kontynuowania okołorubiowych dyskusji przy chłodnym piwie.
+
+Prosimy o wypełnienie poniższego formularza rejestracyjnego -- pomoże nam to przygotować odpowiednią liczbę miejsc.
+
+<iframe src="https://docs.google.com/forms/d/1eeCY3ABYP5VTuH_xrrI7xSxjHgMajgVDNBMOi0SsY5Y/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<a href="http://maps.google.com/maps?hl=pl&geocode=&q=4art+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%;">
+  <img src="http://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.296539,18.659638&size=720x400&sensor=false" class="img-thumbnail">
+</a>
