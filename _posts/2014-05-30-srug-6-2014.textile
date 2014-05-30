@@ -7,7 +7,7 @@ categories: ["article"]
 
 Ustaliliśmy już termin kolejnego spotkania entuzjastów języka Ruby! Spotkanie odbędzie się *13&nbsp;czerwca&nbsp;2014* w "Klubie muzycznym 4art":http://www.4artgliwice.pl w Gliwicach, na *ul. Wieczorka&nbsp;22*. Planowana godzina rozpoczęcia prezentacji to *18:00*, zaplanowane prezentacje to:
 
-* *„My testing story”* -- "Kuba Kuźma":https://kubakuzma.com z firmy "Cowbell Labs":https://cowbell-labs.com opowie o swojej przygodzie z pisaniem automatycznych testów z wykorzystaniem rozmaitych narzędzi, począwszy od epoki Test::Unit, aż po „TDD is dead”.
+* *„Automated Testing Story”* -- "Kuba Kuźma":https://kubakuzma.com z firmy "Cowbell Labs":https://cowbell-labs.com opowie o swojej przygodzie z pisaniem automatycznych testów z wykorzystaniem rozmaitych narzędzi, począwszy od epoki Test::Unit, aż po „TDD is dead”.
 * *„Let’s talk about SRP in models”* -- "Michał Krzyżanowski":https://github.com/krzyzak z firmy "Go Rails Go":http://gorailsgo.com/ opowie o tym dlaczego przy implementowaniu Railsowych modeli powinniśmy stosować zasadę jednej odpowiedzialności (eng. "SRP":http://en.wikipedia.org/wiki/Single_responsibility_principle).
 
 Przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning talków”. Zachęcamy również wszystkich do pozostania w 4arcie po prezentacjach i kontynuowania okołorubiowych dyskusji przy chłodnym piwie.
