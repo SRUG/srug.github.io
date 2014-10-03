@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-Ahoj SRUG-owicze! Przed nami kolejne spotkanie SRUG, które odbędzie się *17&nbsp;października&nbsp;2014* w "Klubie muzycznym 4art":http://www.4artgliwice.pl w Gliwicach, na *ul. Wieczorka&nbsp;22*. Prezentacje planujemy rozpocąć o *19:00*, będą to:
+Ahoj SRUG-owicze! Przed nami kolejne spotkanie SRUG, które odbędzie się *17&nbsp;października&nbsp;2014* w "Klubie muzycznym 4art":http://www.4artgliwice.pl w Gliwicach, na *ul. Wieczorka&nbsp;22*. Prezentacje planujemy rozpocząć o *19:00*, a będą to:
 
 * *„Infrastructure as a Code”* -- "Marek Kowalcze":https://github.com/kowal z firmy "Pega":http://www.pega.com opowie o narzędziach do automatyzacji konfiguracji środowisk programistycznych.
 * *„Drzewa behawioralne”* -- "Jacek Becela":https://github.com/ncr z firmy "Trix":http://www.trix.pl opowie o modelowaniu sztucznej inteligencji w grach komputerowych w oparciu o drzewa behawioralne.
