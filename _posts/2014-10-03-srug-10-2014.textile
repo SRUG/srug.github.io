@@ -9,7 +9,6 @@ Ahoj SRUG-owicze! Przed nami kolejne spotkanie SRUG, które odbędzie się *17&n
 
 * *„Infrastructure as a Code”* -- "Marek Kowalcze":https://github.com/kowal z firmy "Pega":http://www.pega.com opowie o narzędziach do automatyzacji konfiguracji środowisk programistycznych.
 * *„Drzewa behawioralne”* -- "Jacek Becela":https://github.com/ncr z firmy "Trix":http://www.trix.pl opowie o modelowaniu sztucznej inteligencji w grach komputerowych w oparciu o drzewa behawioralne.
-* *„Programowanie funkcyjne w Rubim”* -- "Agnieszka Matysek":https://github.com/womanonrails z firmy "Fractal Soft":https://pl-pl.facebook.com/fractalsoft opowie o możliwościach funkcyjnego programowania w języku Ruby.
 
 Przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning talków”. Zachęcamy również wszystkich do pozostania w 4arcie po prezentacjach i kontynuowania okołorubiowych dyskusji przy chłodnym piwie.
 
