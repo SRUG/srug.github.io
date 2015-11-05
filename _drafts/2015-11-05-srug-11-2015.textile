@@ -1,0 +1,24 @@
+---
+layout: post
+title: SRUG 11.2015
+author: Kuba
+categories: ["article"]
+---
+
+Od razu po powrocie z "Salzburga":http://www.euruko2015.org/ zabraliśmy się za organizację kolejnego spotkania, które odbędzie się w *czwartek, 19&nbsp;listopada&nbsp;2015* w multitapie "Dobry Zbeer":https://www.facebook.com/DobryZbeer/ w Gliwicach, przy *ul.&nbsp;Górnych&nbsp;Wałów&nbsp;30*. Prezentacje planujemy rozpocząć o godzinie *18:00*, a będą to:
+
+* *„How to Tame Robots”* -- "Aleksander Małaszkiewicz":https://github.com/torrocus z firmy "Fractal Soft":http://fractalsoft.org/pl opowie o botach, pająkach, crawlerach, spamerach oraz innych paskudztwach, od których roi się w internecie. Przedstawi również kilka sposobów na ograniczenie nieporządanego ruchu w aplikacji.
+
+* *„Rails Workflow dla początkującego programisty”* -- "Adrian Swarzyński":https://github.com/swarzynski opowie o tym, jak z pomocą skryptów w kilka minut postawić serwer deweloperski i produkcyjny na maszynie z Ubuntu.
+
+Prosimy o wypełnienie RSVP w serwisie "meetup":http://www.meetup.com/srugpl/events/222708245/ -- pomoże nam to oszacować liczbę uczestników i przygotować miejsca dla wszystkich. *Do zobaczenia na spotkaniu!*
+
+…A dla tych wszystkich, którzy nie byli z nami na tegorocznym "EuRuKo":http://www.euruko2015.org/, przywieźliśmy serdeczne pozdrowienia od Matza i Koichi!
+
+<div class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+  <img src="/assets/matz-5.jpg" class="img-thumbnail">
+</div>
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=Gornych+Walow+30+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+  <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.2936735,18.6604032&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>
