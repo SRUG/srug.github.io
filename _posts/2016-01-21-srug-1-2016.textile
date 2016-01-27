@@ -9,7 +9,9 @@ Wszystko wskazuje na to, że kolejne spotkanie grupy odbędzie się we *wtorek, 
 
 * *„Let’s Gather Some Stats!”* -- "Michał Krzyżanowski":https://github.com/krzyzak z firmy "Chaps":https://chaps.io/ opowie o tym, jak generować często używane statystyki, takie jak chmura tagów i słów, histogramy długości wiadomości, itp. Przedstawi takie rozwiązania, które świetnie sprawdzają się nawet w przypadku dużych kolekcji danych.
 
-* *„Structuring Rails Apps Differently”* -- "Michał Muskała":https://github.com/michalmuskala z firmy "Woumedia":http://woumedia.com/ opowie o tym, jak wraz z zespołem zdecydował się podzielić jedną z aplikacji tak, aby wypróbować bardziej obiektowe podejście do architektury. Pokaże, jak to wszystko wpisuje się w ekosystem Ruby on Rails. Wspomni również o tym, jakie komponenty zostały wyróżnione, co daje taka architektura, a także omówi jej wady i zalety.
+* <s>*„Structuring Rails Apps Differently”* -- "Michał Muskała":https://github.com/michalmuskala z firmy "Woumedia":http://woumedia.com/ opowie o tym, jak wraz z zespołem zdecydował się podzielić jedną z aplikacji tak, aby wypróbować bardziej obiektowe podejście do architektury. Pokaże, jak to wszystko wpisuje się w ekosystem Ruby on Rails. Wspomni również o tym, jakie komponenty zostały wyróżnione, co daje taka architektura, a także omówi jej wady i zalety.</s>
+
+* *„YANB, aka you ain't need no backend”* -- "Kuba Kuźma":https://github.com/qoobaa z firmy "Cowbell Labs":http://cowbell-labs.com/ opowie o tym, jak tworzyć aplikacje bez potrzeby tworzenia odrębego backendu, korzystając z uniwersalnych rozwiązań takich jak Google Docs, Firebase czy AWS API Gateway.
 
 Prosimy o wypełnienie RSVP w serwisie "meetup":http://www.meetup.com/srugpl/events/228253464/ -- pomoże nam to oszacować liczbę uczestników i przygotować miejsca dla wszystkich. *Do zobaczenia na spotkaniu!*
 
