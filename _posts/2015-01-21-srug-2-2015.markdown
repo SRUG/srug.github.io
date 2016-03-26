@@ -1,0 +1,38 @@
+---
+layout: post
+title: SRUG 2.2015
+author: Kuba
+categories: ["article"]
+---
+
+Wszystkich spragnionych rubiowych wrażeń pragniemy poinformować, że
+kolejne spotkanie SRUG odbędzie się w lutym. Tym razem spotykamy się w
+**środę 18&nbsp;lutego&nbsp;2015** w [Klubie
+Inwersja](http://klubinwersja.pl) w Katowicach, przy **ul.
+Gliwickiej&nbsp;10**. Prezentacje planujemy rozpocząć o godzinie
+**18:00**, a będą to:
+
+-   **„Elixir”** -- [Wojtek Gawroński](https://github.com/afronski) z
+    firmy [White Rook](http://white-rook.pl) opowie o tym, co wyjdzie po
+    skrzyżowaniu języków programowania Ruby i Erlang -- rozłoży język
+    [Elixir](http://elixir-lang.org/) na czynniki pierwsze, pokaże jego
+    mocne i słabsze strony, powie także gdzie najlepiej sprawdza się on
+    w praktyce.
+-   **„Ruby Functional Programming”** -- [Agnieszka
+    Matysek](https://github.com/womanonrails) z firmy [Fractal
+    Soft](http://fractalsoft.org/) opowie o możliwościach programowania
+    funkcyjnego w języku Ruby.
+
+Przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning
+talków”. Podczas spotkania **rozdamy książki o Rubim**, dostarczone nam
+ostatnim razem przez wydawnictwo [Helion](http://helion.pl). Zachęcamy
+również wszystkich do pozostania w Inwersji po prezentacjach i
+kontynuowania okołorubiowych dyskusji przy chłodnym piwie.
+
+Prosimy o dopisanie się do spotkania w serwisie
+[meetup](http://www.meetup.com/srugpl/events/219980385/) -- pomoże nam
+to przygotować odpowiednią liczbę miejsc. **Do zobaczenia!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=Inwersja+Katowice&ll=50.260841,19.010484&z=17" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="//maps.google.com/maps/api/staticmap?center=50.2595515,19.0137563&zoom=15&markers=color:red|label:A|50.260841,19.010484&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>

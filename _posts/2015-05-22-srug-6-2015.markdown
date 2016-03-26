@@ -1,0 +1,43 @@
+---
+layout: post
+title: SRUG 6.2015
+author: Kuba
+categories: ["article"]
+---
+
+Przed nami kolejne spotkanie SRUG -- tym razem spotykamy się w
+**czwartek 11&nbsp;czerwca&nbsp;2015** w [Klubie
+4art](http://www.4artgliwice.pl/) w Gliwicach, przy **ul.
+Wieczorka&nbsp;22**. Prezentacje planujemy rozpocząć o godzinie
+**18:00**, a będą to:
+
+-   **„Od zera do Ruby Developera”** -- [Michał
+    Czyż](https://github.com/cs3b) z firmy [Selleo](http://selleo.com/)
+    omówi przykładową ścieżkę, która pomoże zostać dobrym programistą
+    Ruby: od czego zacząć, na co warto zwrócić uwagę, z jakich
+    materiałów korzystać, które książki warto przeczytać (oraz jak je
+    czytać), dlaczego warto znaleźć mentora. Na koniec Michał opowie
+    krótko jak to wygląda w [Selleo](http://selleo.com/).
+-   **„Developer mode on”** -- [Łukasz Myrda](https://github.com/lmyrda)
+    z firmy [The Software House](http://thesoftwarehouse.pl) opowie o
+    tym, jak lepiej wykorzystać w potencjał drzemiący w narzędziach
+    takich jak [rvm](https://rvm.io/), [rbenv](http://rbenv.org/) i w
+    projekcie [Ruby
+    Ng](https://launchpad.net/~brightbox/+archive/ubuntu/ruby-ng).
+    Łukasz opowie również o tym, jak dobrze ustawić środowisko
+    programistyczne, aby ułatwić sobie codzienną pracę przy
+    rubiowych projektach.
+-   **„How to deal with chubby data”** -- [Michał
+    Krzyżanowski](https://github.com/krzyzak) opowie o swoich
+    doświadczeniach zdobytych przy tworzeniu aplikacji przetwarzającej
+    miliony rekordów: o optymalizacjach, nieoczywistych rozwiązaniach
+    oraz pozornie banalnych sprawach, które przy dużej ilości danych
+    stają się bardzo problematyczne.
+
+Prosimy o dopisanie się do spotkania w serwisie
+[meetup](http://www.meetup.com/srugpl/events/222708245/) -- pomoże nam
+to przygotować odpowiednią liczbę miejsc. **Do zobaczenia!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=4art+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.296539,18.659638&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>

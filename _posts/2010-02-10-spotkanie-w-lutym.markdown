@@ -1,0 +1,54 @@
+---
+layout: post
+title: Spotkanie w lutym
+author: Kuba
+categories: ["article"]
+---
+
+Miło nam zakomunikować, że udało się w końcu ustalić termin, miejsce i
+tematykę najbliższego spotkania. Wspólnie z osobami
+mieszkającymi/pracującymi w innych miastach doszliśmy do wniosku, że
+najdogodniej będzie zorganizować spotkanie w weekend, tak aby dać
+każdemu szanse na dojazd. Nietrudno się domyślić, że dość problematyczne
+jest zarezerwowanie odpowiedniego pomieszczenia w barze/pubie w trakcie
+weekendu (a przynajmniej nie jest to tanie). W związku z tym lutowe
+spotkanie odbędzie się w [budynku 4 - „Maszynowni”, na terenie „Nowych
+Gliwic”](http://www.arl.pl/1,63,Budynek_4__Maszynownia.html), przy ulicy
+Bojkowskiej 37. Sala ta powinna pomieścić około 30 osób, do dyspozycji
+jest oczywiście projektor, może natomiast brakować piwa — dlatego po
+spotkaniu planowane jest dokończenie dyskusji w jednym z okolicznych
+pubów.
+
+W trakcie spotkania zostaną przedstawione następujące prezentacje:
+
+-   **„Node.js - wprowadzenie”** — prezentacja Jacka Beceli z firmy
+    [Trix](http://trix.pl/), o zdobywającym coraz większą popularność
+    projekcie [node.js](http://nodejs.org/). Projekt ten wykorzystuje
+    silnik JavaScriptowy
+    [V8](http://en.wikipedia.org/wiki/V8_(JavaScript_engine)),
+    nieblokujące operacje wejścia/wyjścia, umożliwiając tworzenie
+    wysokowydajnych, jednowątkowych serwerów sieciowych.
+-   **„Metryki w aplikacjach webowych”** — prezentacja Michała Czyża z
+    firmy [Selleo](http://selleo.com/), o wykorzystaniu metryk (jakości,
+    złożoności, wydajności) do analizowania tworzonych przez nas
+    aplikacji webowych. W prezentacji poruszone zostaną także kwestie:
+    wartości metryk z punktu widzenia biznesowego, minimalizacji wysiłku
+    dzięki automatyzacji ich gromadzenia oraz analizy
+    uzyskiwanych wyników.
+-   **„Capybara”** — prezentacja [Piotra
+    Sarnackiego](http://blog.drogomir.com/) na temat
+    [Capybary](http://github.com/jnicklas/capybara). Capybara jest
+    ciekawą alternatywą dla popularnego dziś
+    [Webrata](http://github.com/brynary/webrat). Oba projekty
+    udostępniają bardzo zbliżony
+    [DSL](http://en.wikipedia.org/wiki/Domain-specific_language) do
+    tworzenia testów integracyjnych, określanych również jako
+    [*acceptance
+    tests*](http://en.wikipedia.org/wiki/Acceptance_testing).
+
+**Spotkanie odbędzie się 26 lutego 2010, o godzinie 19:00**. Wstęp jest
+oczywiście bezpłatny, ale wszystkich zainteresowanych zapraszamy do
+wypełnienia poniższego formularza - ułatwi nam to ustalenie liczby
+uczestników i w razie potrzeby umożliwi zarezerwowanie większej sali.
+
+**Do zobaczenia!**

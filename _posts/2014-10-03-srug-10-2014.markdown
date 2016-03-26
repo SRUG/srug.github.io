@@ -1,0 +1,38 @@
+---
+layout: post
+title: SRUG 10.2014
+author: Kuba
+categories: ["article"]
+---
+
+Ahoj SRUG-owicze! Przed nami kolejne spotkanie SRUG, które odbędzie się
+**17&nbsp;października&nbsp;2014** w [Klubie muzycznym
+4art](http://www.4artgliwice.pl) w Gliwicach, na **ul.
+Wieczorka&nbsp;22**. Prezentacje planujemy rozpocząć o godzinie
+**19:00**, a będą to:
+
+-   **„Infrastructure as a Code”** -- [Marek
+    Kowalcze](https://github.com/kowal) z firmy
+    [Pega](http://www.pega.com) opowie o narzędziach do automatyzacji
+    konfiguracji środowisk programistycznych.
+-   **„Drzewa behawioralne”** -- [Jacek Becela](https://github.com/ncr)
+    z firmy [Trix](http://www.trix.pl) opowie o modelowaniu sztucznej
+    inteligencji w grach komputerowych w oparciu o drzewa behawioralne.
+
+Przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning
+talków”. Zachęcamy również wszystkich do pozostania w 4arcie po
+prezentacjach i kontynuowania okołorubiowych dyskusji przy chłodnym
+piwie.
+
+Prosimy o wypełnienie poniższego formularza rejestracyjnego -- pomoże
+nam to przygotować odpowiednią liczbę miejsc. **Do zobaczenia!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=4art+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="//maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.296539,18.659638&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>
+
+<p class="text-center">
+<iframe src="//docs.google.com/forms/d/1LX2GWxMlsHWxOUcHCcrf3zOX8MuoFHkWMosdrd3oxvc/viewform?embedded=true" width="100%" height="780" frameborder="0" marginheight="0" marginwidth="0">
+Ładowanie...</iframe>
+</p>
+

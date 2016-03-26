@@ -1,0 +1,40 @@
+---
+layout: post
+title: SRUG 6.2014
+author: Kuba
+categories: ["article"]
+---
+
+Ustaliliśmy już termin kolejnego spotkania entuzjastów języka Ruby!
+Spotkanie odbędzie się **13&nbsp;czerwca&nbsp;2014** w [Klubie muzycznym
+4art](http://www.4artgliwice.pl) w Gliwicach, na **ul.
+Wieczorka&nbsp;22**. Planowana godzina rozpoczęcia prezentacji to
+**18:00**, zaplanowane prezentacje to:
+
+-   **„Automated Testing Story”** -- [Kuba Kuźma](https://kubakuzma.com)
+    z firmy [Cowbell Labs](https://cowbell-labs.com) opowie o swojej
+    przygodzie z pisaniem automatycznych testów z wykorzystaniem
+    rozmaitych narzędzi, począwszy od epoki Test::Unit, aż po „TDD
+    is dead”.
+-   **„Let’s talk about SRP in models”** -- [Michał
+    Krzyżanowski](https://github.com/krzyzak) z firmy [Go Rails
+    Go](http://gorailsgo.com/) opowie o tym dlaczego przy
+    implementowaniu Railsowych modeli powinniśmy stosować zasadę jednej
+    odpowiedzialności (ang.
+    [SRP](http://en.wikipedia.org/wiki/Single_responsibility_principle)).
+
+Przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning
+talków”. Zachęcamy również wszystkich do pozostania w 4arcie po
+prezentacjach i kontynuowania okołorubiowych dyskusji przy chłodnym
+piwie.
+
+Prosimy o wypełnienie poniższego formularza rejestracyjnego -- pomoże
+nam to przygotować odpowiednią liczbę miejsc. **Do zobaczenia na
+spotkaniu!**
+
+<iframe src="https://docs.google.com/forms/d/168AV73fMh9WJ97e-Z1JIoHG5lbMOGLzxofwBPtPR6QU/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">
+Ładowanie...</iframe>
+
+<a href="http://maps.google.com/maps?hl=pl&geocode=&q=4art+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%;">
+    <img src="http://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.296539,18.659638&size=720x400&sensor=false" class="img-thumbnail">
+</a>

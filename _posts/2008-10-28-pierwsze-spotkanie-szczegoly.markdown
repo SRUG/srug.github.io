@@ -1,0 +1,31 @@
+---
+layout: post
+title: Pierwsze spotkanie - szczegóły
+author: Wojtek
+categories: ["article"]
+---
+
+Pierwsze spotkanie odbędzie się 3 listopada (poniedziałek) na wydziale
+AEiI Politechniki Śląskiej o godzinie 16.30 w auli B (parter).
+Zapraszamy wszystkich zainteresowanych, wstęp oczywiście bezpłatny.
+**Wśród zapisanych uczestników zostaną rozlosowane upominki pod koniec
+prezentacji.**
+
+<a href="/assets/ruby_on_rails_ver_2.pdf">
+    <img src="/assets/plakat_mini.png" class="img-thumbnail" width="100%">
+</a>
+
+Krótkie streszczenie tematyki, która będzie poruszana:
+
+-   Dlaczego web development?
+-   Dlaczego Ruby on Rails?
+-   Ruby - opis najmocniejszych cech języka:\
+    metaprogramowanie, domknięcia, otwarte klasy, monkey patching
+-   Przedstawienie architektury Ruby on Rails oraz omówienie głównych
+    elementów
+-   Przykłady wdrożeń
+-   [Rake](http://pl.wikipedia.org/wiki/Rake) (Ruby Make)
+-   [RSpec](http://rspec.info/)
+-   Przyszłość i rozwój języka Ruby
+-   Jak zacząć przygodę?
+
