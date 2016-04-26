@@ -1,0 +1,42 @@
+---
+layout: post
+title: SRUG 2.2016
+author: Kuba
+categories: ["article"]
+---
+
+Znamy już termin kolejnego spotkania grupy - będzie to **wtorek,
+24&nbsp;maja&nbsp;2016**, a spotkanie odbędzie się w multitapie
+[Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
+**ul. Górnych&nbsp;Wałów&nbsp;30**. Tym razem odwiedzą nas goście z
+[krakowskiegu RUG-u](http://www.meetup.com/Krakow-Ruby-Users-Group/). Prezentacje
+planujemy rozpocząć o godzinie **18:00**, a będą to:
+
+-   **„Dry Ruby”** -- [Artur Dębski](https://github.com/mentero)
+    opowie o tym jak wykorzystać biblioteki z rodziny
+    [dry-rb](http://dry-rb.org/). Omówi ich możliwości i potencjalne
+    korzyści wynikające z ich zastosowania. Pod lupę weźmie flagowe
+    rozwiązania - [dry-types](http://dry-rb.org/gems/dry-types/) oraz
+    [dry-validation](http://dry-rb.org/gems/dry-validation/) - i
+    porówna je z dostępnymi alternatywami.
+
+-   **„Zasadnicze różnice między Phoenix a Ruby on Rails”** --
+    [Maksymilian Kołodziej](https://github.com/MaxKolodziej) porówna
+    Railsy z frameworkiem webowym
+    [Phoenix](http://www.phoenixframework.org/) i omówi najważniejsze
+    rzeczy, które je różnią.
+
+-   **„Karafka”** -- [Maciej Mensfeld](https://github.com/mensfeld)
+    omówi [swój framework](https://github.com/karafka/karafka) do
+    tworzenia aplikcji w oparciu o
+    [Apache Kafka](http://kafka.apache.org/) - wysokowydajny,
+    rozproszony system komunikacji.
+
+Prosimy o wypełnienie RSVP w serwisie
+[meetup](http://www.meetup.com/srugpl/events/230669647/) -- pomoże nam
+to oszacować liczbę uczestników i przygotować miejsca dla wszystkich.
+**Do zobaczenia na spotkaniu!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=Gornych+Walow+30+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.2933503,18.6621612&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>
