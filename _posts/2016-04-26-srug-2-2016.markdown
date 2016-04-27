@@ -16,7 +16,7 @@ planujemy rozpocząć o godzinie **18:00**, a będą to:
     opowie o tym jak wykorzystać biblioteki z rodziny
     [dry-rb](http://dry-rb.org/). Omówi ich możliwości i potencjalne
     korzyści wynikające z ich zastosowania. Pod lupę weźmie flagowe
-    rozwiązania - [dry-types](http://dry-rb.org/gems/dry-types/) oraz
+    rozwiązania: [dry-types](http://dry-rb.org/gems/dry-types/) oraz
     [dry-validation](http://dry-rb.org/gems/dry-validation/) i porówna
     je z dostępnymi alternatywami.
 
