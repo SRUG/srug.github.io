@@ -9,7 +9,7 @@ Znamy już termin kolejnego spotkania grupy - będzie to **wtorek,
 24&nbsp;maja&nbsp;2016**, a spotkanie odbędzie się w multitapie
 [Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
 **ul. Górnych&nbsp;Wałów&nbsp;30**. Tym razem odwiedzą nas goście z
-[krakowskiego RUG-u](http://www.meetup.com/Krakow-Ruby-Users-Group/). Prezentacje
+[krakowskiego RUG-a](http://www.meetup.com/Krakow-Ruby-Users-Group/). Prezentacje
 planujemy rozpocząć o godzinie **18:00**, a będą to:
 
 -   **„Dry Ruby”** -- [Artur Dębski](https://github.com/mentero)
