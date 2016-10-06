@@ -251,3 +251,9 @@ body {
     border-radius: 0;
     box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
+
+.img-container {
+  display: block;
+  padding: 0.75rem;
+  width: 100%;
+}
