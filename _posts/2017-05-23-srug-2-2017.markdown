@@ -12,16 +12,18 @@ Gliwicach, przy **ul.&nbsp;Górnych&nbsp;Wałów&nbsp;30**.
 
 Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
-- **„Pisanie gier za pomocą Ruby 2D”** --- [Łukasz Strzebińczyk](https://github.com/KillaPL) z firmy AC Delivery zaprezentuje bibliotekę [Ruby 2D](http://www.ruby2d.com/) umożliwiającą wygodne tworzenie gier z dwuwymiarową grafiką. Łukasz pokaże również jak skompilować grę do postaci natywnej i webowej, zademonstruje też kilka przykładowych projektów.
+- **„Pisanie gier za pomocą Ruby 2D”** --- [Łukasz Strzebińczyk](https://github.com/KillaPL) z firmy [AC Project](https://ac-project.net/) zaprezentuje bibliotekę [Ruby 2D](http://www.ruby2d.com/) umożliwiającą wygodne tworzenie gier z dwuwymiarową grafiką. Łukasz pokaże również jak skompilować grę do postaci natywnej i webowej, zademonstruje też kilka przykładowych projektów.
 
 - **„Command-line interface and the power of Ruby”** --- [Radosław Jędryszczak](https://github.com/socjopata/) z firmy [Selleo](http://selleo.com/) opowie o odzyskiwaniu danych utraconych w wyniku błędu, niewykrytego przez rok od uruchomienia aplikacji. Zaprezentuje jak z pomocą Rubiego i narzędzi dostępnych na platformie [Heroku](https://www.heroku.com/) udało mu się wybrnąć z tej sytuacji.
 
 - **„Twilio - Slack integration example”** --- [Łukasz Ozimek](https://github.com/ozimeu) z firmy [Netguru](https://www.netguru.co/) pokaże jak połączyć [Slacka](https://slack.com/) z API [Twilio](https://www.twilio.com/) przy użyciu [Sinatry](http://www.sinatrarb.com/). Przedstawi prosty sposób na obsługę połączeń głosowych w przeglądarce w połączeniu ze „slackowymi” powiadomieniami.
 
-Prosimy o wypełnienie RSVP w serwisie
-[meetup](https://www.meetup.com/srugpl/events/240219459/) -- pomoże nam
-to oszacować liczbę uczestników i przygotować miejsca dla wszystkich.
-**Do zobaczenia na spotkaniu!**
+Prosimy również o wypełnienie RSVP w
+serwisie [meetup](https://www.meetup.com/srugpl/events/240219459/) --
+pomoże nam to oszacować liczbę osób i przygotować miejsca i kupony na
+napoje dla wszystkich chętnych. Podczas tego spotkania sponsorem
+napojów dla uczestników będzie
+firma [AC Project](https://ac-project.net/). **Do zobaczenia!**
 
 <a href="https://maps.google.com/maps?hl=pl&geocode=&q=Gornych+Walow+30+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
     <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.2933503,18.6621612&size=680x400&sensor=false&scale=2" class="img-thumbnail">
