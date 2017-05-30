@@ -14,7 +14,7 @@ Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
 - **„Pisanie gier za pomocą Ruby 2D”** --- [Łukasz Strzebińczyk](https://github.com/KillaPL) z firmy [AC Project](https://ac-project.net/) zaprezentuje bibliotekę [Ruby 2D](http://www.ruby2d.com/) umożliwiającą wygodne tworzenie gier z dwuwymiarową grafiką. Łukasz pokaże również jak skompilować grę do postaci natywnej i webowej, zademonstruje też kilka przykładowych projektów.
 
-- **„Command-line interface and the power of Ruby”** --- [Radosław Jędryszczak](https://github.com/socjopata/) z firmy [Selleo](http://selleo.com/) opowie o odzyskiwaniu danych utraconych w wyniku błędu, niewykrytego przez rok od uruchomienia aplikacji. Zaprezentuje jak z pomocą Rubiego i narzędzi dostępnych na platformie [Heroku](https://www.heroku.com/) udało mu się wybrnąć z tej sytuacji.
+- **„Command-line interface and the power of Ruby”** --- [Radosław Jędryszczak](https://github.com/socjopata/) z firmy [Selleo](http://selleo.com/) opowie o odzyskiwaniu danych utraconych w wyniku błędu, niewykrytego przez rok od uruchomienia pewnej aplikacji. Zaprezentuje jak z pomocą Rubiego i narzędzi dostępnych na platformie [Heroku](https://www.heroku.com/) udało mu się wybrnąć z tej sytuacji.
 
 - **„Twilio - Slack integration example”** --- [Łukasz Ozimek](https://github.com/ozimeu) z firmy [Netguru](https://www.netguru.co/) pokaże jak połączyć [Slacka](https://slack.com/) z API [Twilio](https://www.twilio.com/) przy użyciu [Sinatry](http://www.sinatrarb.com/). Przedstawi prosty sposób na obsługę połączeń głosowych w przeglądarce w połączeniu ze „slackowymi” powiadomieniami.
 
