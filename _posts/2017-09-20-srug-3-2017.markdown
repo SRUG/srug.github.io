@@ -15,7 +15,7 @@ Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
 - **„Living on the Edge of the Open Source World”** --- [Michał Staśkiewicz](https://github.com/mikoscz) z firmy [Selleo](http://selleo.com/) opowie o wykorzystaniu open source-owego projektu w wersji „bleeding edge”, co z biegiem czasu przynosiło więcej szkód niż pożytku. Michał opowie o swoim wkładzie i o społeczności open source.
 
-- **„Moje doświadczenia z testowania”** --- [Adam Mazur](https://github.com/mazikwyry) z firmy [Exlabs](http://exlabs.co.uk/) podzieli się przemyślaniami i postara się udzielić porad w temacie testowania kodu w Ruby. Opowie dlaczego nie wierzy w statystyki pokrycia kodu testami (code coverage) i wskaże co zrobić, żeby testy były bardziej wartościowe.
+- **„Moje doświadczenia z testowania”** --- [Adam Mazur](https://github.com/mazikwyry) z firmy [Exlabs](http://exlabs.co.uk/) podzieli się przemyślaniami i postara się udzielić porad w temacie testowania kodu w Ruby. Opowie dlaczego nie wierzy w statystyki [pokrycia kodu testami](https://en.wikipedia.org/wiki/Code_coverage) i wskaże co zrobić, żeby testy były bardziej wartościowe.
 
 - **„Good Quality of a Project - SEO Onsite”** --- [Alek Małaszkiewicz](https://fractalsoft.org/pl/team/torrocus) z firmy [Fractal Soft](http://fractalsoft.org/pl) w swojej prezentacji opowie o tym, jak jako developer można zadbać o lepszą widoczność aplikacji w Internecie. Wyjaśni jak dobrze budować aplikacje wielojęzyczne, jak pomóc klientowi je pozycjonować i przygotować aplikację do działań w mediach społecznościowych.
 
