@@ -1,0 +1,31 @@
+---
+layout: post
+title: SRUG 3.2017
+author: Kuba
+categories: ["article"]
+---
+
+Spieszymy poinformować, że trzecie i prawdopodobnie ostatnie w tym
+roku spotkanie grupy, odbędzie się we **wtorek,
+17&nbsp;października&nbsp;2017** w multitapie [Dobry
+Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
+**ul.&nbsp;Górnych&nbsp;Wałów&nbsp;30**.
+
+Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
+
+- **„Living on the Edge of the Open Source World”** --- [Michał Staśkiewicz](https://github.com/mikoscz) z firmy [Selleo](http://selleo.com/) opowie o wykorzystaniu open source-owego projektu w wersji „bleeding edge”, co z biegiem czasu przynosiło więcej szkód niż pożytku. Michał opowie o swoim wkładzie i o społeczności open source.
+
+- **„Moje doświadczenia z testowania”** --- [Adam Mazur](https://github.com/mazikwyry) z firmy [Exlabs](http://exlabs.co.uk/) podzieli się przemyślaniami i postara się udzielić porad w temacie testowania kodu w Ruby. Opowie dlaczego nie wierzy w statystyki pokrycia kodu testami (code coverage) i wskaże co zrobić, żeby testy były bardziej wartościowe.
+
+- temat trzeciej prezentacji zostanie ogłoszony wkrótce…
+
+Prosimy również o wypełnienie RSVP w serwisie
+[meetup](https://www.meetup.com/srugpl/events/243517497/) -- pomoże
+nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
+dla wszystkich chętnych. Podczas tego spotkania sponsorem napojów dla
+uczestników będzie firma [Selleo](http://selleo.com/). **Do
+zobaczenia!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=Gornych+Walow+30+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.2933503,18.6621612&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>
