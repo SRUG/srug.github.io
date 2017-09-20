@@ -17,7 +17,7 @@ Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
 - **„Moje doświadczenia z testowania”** --- [Adam Mazur](https://github.com/mazikwyry) z firmy [Exlabs](http://exlabs.co.uk/) podzieli się przemyślaniami i postara się udzielić porad w temacie testowania kodu w Ruby. Opowie dlaczego nie wierzy w statystyki [pokrycia kodu testami](https://en.wikipedia.org/wiki/Code_coverage) i wskaże co zrobić, żeby testy były bardziej wartościowe.
 
-- **„Good Quality of a Project - SEO Onsite”** --- [Alek Małaszkiewicz](https://fractalsoft.org/pl/team/torrocus) z firmy [Fractal Soft](http://fractalsoft.org/pl) w swojej prezentacji opowie o tym, jak jako developer można zadbać o lepszą widoczność aplikacji w Internecie. Wyjaśni jak dobrze budować aplikacje wielojęzyczne, jak pomóc klientowi je pozycjonować i przygotować aplikację do działań w mediach społecznościowych.
+- **„Good Quality of a Project - SEO Onsite”** --- [Alek Małaszkiewicz](https://fractalsoft.org/pl/team/torrocus) z firmy [Fractal Soft](http://fractalsoft.org/pl) w opowie o tym, jak jako programista zadbać o lepszą widoczność aplikacji w Internecie. Wyjaśni jak dobrze budować aplikacje wielojęzyczne, jak pomóc klientowi je pozycjonować i przygotować aplikację do działań w mediach społecznościowych.
 
 Prosimy również o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/243517497/) -- pomoże
