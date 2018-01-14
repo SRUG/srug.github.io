@@ -1,0 +1,29 @@
+---
+layout: post
+title: SRUG 3.2017
+author: Kuba
+categories: ["article"]
+---
+
+Na dobry początek 2018 roku zaplanowaliśmy dla Was kolejne spotkanie
+grupy!  Pierwsze w tym roku spotkanie odbędzie się we **wtorek,
+30&nbsp;stycznia&nbsp;2018** w multitapie [Dobry
+Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
+**ul.&nbsp;Górnych&nbsp;Wałów&nbsp;30**.
+
+Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
+
+- **„Are you an Egoistic Programmer? Take Care of your Code - Refactoring Ideas”** --- [Agnieszka Matysek](https://github.com/womanonrails) z firmy [Fractal Soft](http://fractalsoft.org/) opowie o swoich przemyśleniach na temat refaktoryzacji kodu. Agnieszka wyjaśni, dlaczego warto zadbać o jakość i czytelność kodu oraz jakie pomysły, metody czy techniki stosować do jego ulepszania.
+
+- **„Managing a Large Project”** --- [Łukasz Ozimek](https://github.com/ozimeu) z firmy [Netguru](https://www.netguru.co/) opowie w jaki sposób można podejść do zarządzania większymi projektami składającymi się z wielu repozytoriów i zespołów programistów.
+
+Prosimy również o wypełnienie RSVP w serwisie
+[meetup](https://www.meetup.com/srugpl/events/246800858/) -- pomoże
+nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
+dla wszystkich chętnych. Podczas tego spotkania sponsorem napojów dla
+uczestników będzie firma [Netguru](https://www.netguru.co/). **Do
+zobaczenia!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=Gornych+Walow+30+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.2933503,18.6621612&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>
