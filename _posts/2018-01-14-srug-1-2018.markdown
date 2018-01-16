@@ -17,6 +17,8 @@ Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
 - **„Managing a Large Project”** --- [Łukasz Ozimek](https://github.com/ozimeu) z firmy [Netguru](https://www.netguru.co/) opowie w jaki sposób można podejść do zarządzania większymi projektami składającymi się z wielu repozytoriów i zespołów programistów.
 
+- **„Office Ergonomics”** --- [Michał Krzyżanowski](https://github.com/krzyzak) z firmy [Chaps](https://chaps.io/) opowie o ergonomii. Michał postara się udzielić skutecznych porad na to, w jaki sposób pracować, aby dożyć do emerytury bez urazów typowych dla osób spędzających dużo czasu przed komputerem.
+
 Prosimy również o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/246800858/) -- pomoże
 nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
