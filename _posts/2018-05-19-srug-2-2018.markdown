@@ -1,0 +1,30 @@
+---
+layout: post
+title: SRUG 2.2018
+author: Kuba
+categories: ["article"]
+---
+
+Drugie w tym roku spotkanie odbędzie się we **wtorek,
+5&nbsp;czerwca&nbsp;2018** w multitapie [Dobry
+Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
+**ul.&nbsp;Górnych&nbsp;Wałów&nbsp;30**.
+
+Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
+
+- **„Active Storage - Wprowadzenie”** --- [Mateusz Staszczyk](https://github.com/sleaz0id) z firmy [Netguru](https://www.netguru.co/) omówi nową składową frameworka Ruby on Rails - wprowadzoną w wersji 5.2 bibliotekę standaryzującą obsługę plików w aplikacjach. Mateusz pokaże jej najciekawsze funkcje, rozwiązania, oraz garstkę praktycznych doświadczeń związanych z wykorzystaniem [ActiveStorage](http://guides.rubyonrails.org/active_storage_overview.html) w projekcie.
+
+- **„Sensible Developer”** --- [Łukasz Ozimek](https://github.com/ozimeu) z firmy [Netguru](https://www.netguru.co/) przedstawi garść przemyśleń, faktów i doświadczeń dotyczących tego, jak być rozsądnym developerem. Łukasz omówi kwestie podejścia, wzorców i narzędzi, które mogą pomóc stać się bardziej profesjonalnym członkiem zespołu projektowego.
+
+- **„TBA”** --- w chwili pisania tej wiadomości nie jest jeszcze znana trzecia prezentująca/trzeci prezentujący. Jeśli masz ochotę przedstawić coś podczas czerwcowego spotkania SRUG, to [zachęcamy do kontaktu](mailto:spotkania@srug.pl).
+
+Prosimy również o wypełnienie RSVP w serwisie
+[meetup](https://www.meetup.com/srugpl/events/0/) -- pomoże
+nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
+dla wszystkich chętnych. Podczas tego spotkania sponsorem napojów dla
+uczestników będzie firma [Netguru](https://www.netguru.co/). **Do
+zobaczenia!**
+
+<a href="https://maps.google.com/maps?hl=pl&geocode=&q=Gornych+Walow+30+Gliwice&ll=50.291779,18.672595&z=14" class="text-center" style="display: block; width: 100%; padding: 0.75rem;">
+    <img src="https://maps.google.com/maps/api/staticmap?center=50.291779,18.672595&zoom=14&markers=color:red|label:A|50.2933503,18.6621612&size=680x400&sensor=false&scale=2" class="img-thumbnail">
+</a>
