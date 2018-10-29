@@ -27,7 +27,7 @@ godzinie **18:00**, a będą to:
 -   **„YANB Architecture, aka you ain't need no backend”** -- [Kuba
     Kuźma](https://github.com/qoobaa) z firmy [Cowbell
     Labs](http://cowbell-labs.com/) opowie o tym, jak tworzyć aplikacje
-    bez potrzeby tworzenia odrębego backendu, korzystając z
+    bez potrzeby tworzenia odrębnego backendu, korzystając z
     uniwersalnych rozwiązań takich jak Google Docs, Firebase czy AWS
     API Gateway.
 

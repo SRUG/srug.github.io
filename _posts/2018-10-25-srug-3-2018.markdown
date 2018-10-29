@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-Dla wszysktich, którzy są spragnieni rubiowych wrażeń, mamy świetną
+Dla wszystkich, którzy są spragnieni rubiowych wrażeń, mamy świetną
 wiadomość: trzecie w tym roku spotkanie odbędzie się we **wtorek,
 13&nbsp;listopada&nbsp;2018** w multitapie [Dobry
 Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
@@ -22,7 +22,7 @@ Prezentacje planujemy rozpocząć o godzinie **18:00**, będą to:
 - **„Dry-Transaction - Co to?”** --- [Tomasz
   Buchta](https://github.com/tomasz-buchta) z firmy [AKRA
   Polska](http://akra.net/) opowie o dry-transaction - bibliotece
-  slużącej do modelowania transakcji biznesowych. Przedstawi jej wady
+  służącej do modelowania transakcji biznesowych. Przedstawi jej wady
   i zalety oraz pokaże jak zastosować ją w projekcie.
 
 - **„SVG for Developers, not Designers”** --- [Alek Małaszkiewicz](https://torrocus.com) z firmy [Fractal Soft](https://fractalsoft.org) opowie o formacie [SVG](https://pl.wikipedia.org/wiki/Scalable_Vector_Graphics) z punktu widzenia programisty. Pokaże, jak łatwo tworzyć proste obrazy nie będąc grafikiem. Przedstawi przykłady jak generować SVG w Ruby, jako alternatywa do JavaScriptu.

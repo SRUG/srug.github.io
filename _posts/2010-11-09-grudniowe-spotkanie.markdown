@@ -5,7 +5,7 @@ author: Paweł
 categories: ["article"]
 ---
 
-Grudniowe spotkanie [SRUG](http://srug.pl/) odbędzie się **3 grudnia
+Grudniowe spotkanie [SRUG](https://srug.pl/) odbędzie się **3 grudnia
 2010, o godzinie 19:00** w Pszczynie, w hotelu [Piano
 Nobile](http://pianonobile.com.pl/). Wstęp jest bezpłatny. Prosimy o
 wypełnienie formularza rejestracyjnego poniżej, ułatwi nam to

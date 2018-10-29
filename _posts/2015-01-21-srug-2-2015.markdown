@@ -19,8 +19,8 @@ Gliwickiej&nbsp;10**. Prezentacje planujemy rozpocząć o godzinie
     mocne i słabsze strony, powie także gdzie najlepiej sprawdza się on
     w praktyce.
 -   **„Ruby Functional Programming”** -- [Agnieszka
-    Matysek](https://github.com/womanonrails) z firmy [Fractal
-    Soft](http://fractalsoft.org/) opowie o możliwościach programowania
+    Matysek](https://womanonrails.com/) z firmy [Fractal
+    Soft](https://fractalsoft.org/) opowie o możliwościach programowania
     funkcyjnego w języku Ruby.
 
 Przewidzieliśmy też czas na przedstawienie kilku krótkich „lightning

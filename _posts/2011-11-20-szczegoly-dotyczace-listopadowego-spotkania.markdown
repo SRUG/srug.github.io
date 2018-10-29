@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-Kolejne spotkanie [SRUG](http://srug.pl/) odbędzie się **25 listopada
+Kolejne spotkanie [SRUG](https://srug.pl/) odbędzie się **25 listopada
 2011, o godzinie 18:30** w Maszynowni (budynku nr 4), w Gliwicach przy
 ulicy Bojkowskiej 37. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie
 formularza rejestracyjnego poniżej, ułatwi nam to zorganizowanie
@@ -17,7 +17,7 @@ Zgłoszone zostały dwie prezentacje:
     Goldmanna](http://www.goldmann.pl/) z firmy [Red
     Hat](http://www.redhat.com/) o platformie
     [TorqueBox](http://torquebox.org/).
--   "Lisp - wprowadzenie" - prezentacja [Jakuba Kuźmy](http://jah.pl/),
+-   "Lisp - wprowadzenie" - prezentacja [Jakuba Kuźmy](https://kubakuzma.com/),
     będąca krótkim wprowadzeniem do języka programowania
     [Lisp](http://pl.wikipedia.org/wiki/Lisp).
 

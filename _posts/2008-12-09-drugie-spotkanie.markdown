@@ -17,7 +17,7 @@ przyjemny i intuicyjny jest Ruby w praktyce: **„Mniej kodowania — więcej
 czasu na życie”**.
 
 Spotkanie odbędzie się, tak jak poprzednio, w auli B wydziału AEiI
-wponiedziałek (15.12) o godzinie 16.30.
+w poniedziałek (15.12) o godzinie 16.30.
 
 <a href="/assets/ruby_on_rails_2.pdf">
     <img src="/assets/rails2.png" class="img-thumbnail" width="100%">

@@ -28,7 +28,7 @@ planujemy rozpocząć o godzinie **18:00**, a będą to:
 
 -   **„Karafka”** -- [Maciej Mensfeld](https://github.com/mensfeld)
     omówi [swój framework](https://github.com/karafka/karafka) do
-    tworzenia aplikcji w oparciu o
+    tworzenia aplikacji w oparciu o
     [Apache Kafka](http://kafka.apache.org/) - wysokowydajny,
     rozproszony system komunikacji.
 

@@ -13,7 +13,7 @@ Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
 
 Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
-- **„Are you an Egoistic Programmer? Take Care of your Code - Refactoring Ideas”** --- [Agnieszka Matysek](https://github.com/womanonrails) z firmy [Fractal Soft](http://fractalsoft.org/) opowie o swoich przemyśleniach na temat refaktoryzacji kodu. Agnieszka wyjaśni, dlaczego warto zadbać o jakość i czytelność kodu oraz jakie pomysły, metody czy techniki stosować do jego ulepszania.
+- **„Are you an Egoistic Programmer? Take Care of your Code - Refactoring Ideas”** --- [Agnieszka Matysek](https://womanonrails.com/) z firmy [Fractal Soft](https://fractalsoft.org/) opowie o swoich przemyśleniach na temat refaktoryzacji kodu. Agnieszka wyjaśni, dlaczego warto zadbać o jakość i czytelność kodu oraz jakie pomysły, metody czy techniki stosować do jego ulepszania.
 
 - **„Managing a Large Project”** --- [Łukasz Ozimek](https://github.com/ozimeu) z firmy [Netguru](https://www.netguru.co/) opowie w jaki sposób można podejść do zarządzania większymi projektami składającymi się z wielu repozytoriów i zespołów programistów.
 

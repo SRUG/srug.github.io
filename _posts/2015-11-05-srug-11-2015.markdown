@@ -12,11 +12,11 @@ Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
 **ul. Górnych&nbsp;Wałów&nbsp;30**. Prezentacje planujemy rozpocząć o
 godzinie **18:00**, a będą to:
 
--   **„How to Tame Robots”** -- [Aleksander
-    Małaszkiewicz](https://github.com/torrocus) z firmy [Fractal
-    Soft](http://fractalsoft.org/pl) opowie o botach, pająkach,
+-   **„How to Tame Robots”** -- [Alek
+    Małaszkiewicz](https://torrocus.com) z firmy [Fractal
+    Soft](https://fractalsoft.org/pl) opowie o botach, pająkach,
     crawlerach, spamerach oraz innych paskudztwach, od których roi się
-    w internecie. Przedstawi również kilka sposobów na ograniczenie
+    w Internecie. Przedstawi również kilka sposobów na ograniczenie
     nieporządanego ruchu w aplikacji.
 -   **„Rails Workflow dla początkującego programisty”** -- [Adrian
     Swarzyński](https://github.com/swarzynski) opowie o tym, jak z

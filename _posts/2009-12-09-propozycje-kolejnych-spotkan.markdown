@@ -10,7 +10,7 @@ nie działo. Związane to jest w głównej mierze z naszymi studiami —
 większość z nas była zaangażowana w pisanie/obronę pracy magisterskiej.
 Od paru tygodni myślimy o wznowieniu spotkań — planujemy zacząć działać
 od stycznia przyszłego roku. Jest to uwarunkowane tym, że w styczniu
-rozpoczynami pracę w Gliwicach, w firmie [Object
+rozpoczynamy pracę w Gliwicach, w firmie [Object
 Reload](http://objectreload.com/). Wstępnie ustaliliśmy, że następne
 spotkanie prawie na pewno nie odbędzie się na
 [Politechnice](http://www.polsl.pl/). Nie chcielibyśmy dłużej utożsamiać
@@ -22,7 +22,7 @@ całokształt spotkań. Mam nadzieję, że będzie można wtedy spokojnie
 podyskutować przy dobrym piwku, bez ścisłych ograniczeń czasowych.
 
 W międzyczasie poznaliśmy w okolicy kilka nowych osób, które zajmują się
-na codzień Rubim i Railsami. Być może jest to wystarczająca liczba osób,
+na co dzień Rubim i Railsami. Być może jest to wystarczająca liczba osób,
 aby podczas następnego spotkania móc poruszyć bardziej zaawansowany
 temat? Jeśli masz jakieś sugestie, pomysły lub ochotę na poprowadzenie
 kolejnego spotkania — napisz do [nas](mailto:spotkania@srug.pl)!

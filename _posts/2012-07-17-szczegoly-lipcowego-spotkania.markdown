@@ -17,8 +17,8 @@ Przedstawione zostaną 3 prezentacje:
     [Andrzeja Krzywdy](http://andrzejonsoftware.blogspot.com/) podparta
     produkcyjnym kodem zaczerpniętym z gier tworzonych przez
     [GameBoxed](http://gameboxed.com/)
--   **„Ruboto - wprowadzenie”** — prezentacja Agnieszki Matysek z firmy
-    [Fractal Soft](http://fractalsoft.org/), będąca wprowadzeniem do
+-   **„Ruboto - wprowadzenie”** — prezentacja [Agnieszki Matysek](https://womanonrails.com/) z firmy
+    [Fractal Soft](https://fractalsoft.org/), będąca wprowadzeniem do
     języka Ruby na platformie Android
 
 Po ich zakończeniu będziemy mieć czas na tzw. lighting talki oraz piwne

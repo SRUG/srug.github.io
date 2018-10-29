@@ -9,7 +9,7 @@ Wskazówki, jak zacząć.
 ----------------------
 
 Zamieszczamy plik z dzisiejszej
-[prezentacji](http://assets.srug.pl/srug2.pdf).
+[prezentacji](/assets/srug2.pdf).
 
 **Za 3 najlepsze pomysły/rozwinięcia aplikacji przewidzieliśmy nagrody
 książkowe.**

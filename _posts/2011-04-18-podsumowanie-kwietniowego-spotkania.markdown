@@ -13,11 +13,11 @@ interaktywną formę.
 Dziękujemy również wszystkim prezentującym: [Markowi Kowalcze za
 wprowadzenie do JRuby](http://kowal.github.com/srug-jruby/), [Mateuszowi
 Drożdżyńskiemu za prezentację o analizie sentymentu w
-Ruby](http://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf)
+Ruby](/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf)
 oraz [Michałowi
-Krzyżanowskiemu](http://srug.pl/assets/michal-krzyzanowski-pow.pdf),
+Krzyżanowskiemu](/assets/michal-krzyzanowski-pow.pdf),
 [Kamilowi
-Szewczykowi](http://srug.pl/assets/kamil-szewczyk-devmeetings-pl.pdf) i
+Szewczykowi](/assets/kamil-szewczyk-devmeetings-pl.pdf) i
 [Wojtkowi
-Wnętrzakowi](http://srug.pl/assets/wojciech-wnetrzak-winnie-cloud.pdf)
+Wnętrzakowi](/assets/wojciech-wnetrzak-winnie-cloud.pdf)
 za przedstawienie krótkich "lightning talków".

@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-Lutowe spotkanie [SRUG](http://srug.pl/) odbędzie się **19 lutego 2011,
+Lutowe spotkanie [SRUG](https://srug.pl/) odbędzie się **19 lutego 2011,
 o godzinie 17:00** w klubie [Gramofon](http://www.gramofon-pub.com.pl/)
 (strona jest chyba chwilowo niedostępna), w Gliwicach przy ulicy
 Średniej 12. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie

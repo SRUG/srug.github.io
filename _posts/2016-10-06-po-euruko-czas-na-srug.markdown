@@ -17,11 +17,11 @@ Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy **ul.&nbsp;Górny
 
 Prezentacje planujemy rozpocząć o godzinie **18:00**, a będą to:
 
-- **„Don't git blame me”** - [Agnieszka Matysek](http://womanonrails.com/) z firmy [Fractal Soft](http://fractalsoft.org/) opowie kilka słów o&nbsp;git blame i&nbsp;o&nbsp;tym jak historia lubi zataczać koło.
+- **„Don't git blame me”** - [Agnieszka Matysek](https://womanonrails.com/) z firmy [Fractal Soft](https://fractalsoft.org/pl) opowie kilka słów o&nbsp;git blame i&nbsp;o&nbsp;tym jak historia lubi zataczać koło.
 
 - **„Tips & Tricks: prowadzenie działu IT”** - [Krzysztof Hostyński](http://www.goldenline.pl/krzysztof-hostynski/) z firmy [inFakt](https://www.infakt.pl/) opowie o tym jak prowadzić dział IT, w oparciu o własne doświadczenie zdobyte w firmie [inFakt](https://www.infakt.pl/).
 
-- **„Why do I like Ruby”** - [Alek Malaszkiewicz](https://github.com/torrocus) z firmy [Fractal Soft](http://fractalsoft.org/) porówna Ruby do innych języków programowania oraz przedstawi powody, które sprawiają, że wciąż używamy Ruby i budujemy społeczność wokół niego. Ponadto trochę nowości o Ruby 2.4 i o przyszłości języka.
+- **„Why do I like Ruby”** - [Alek Małaszkiewicz](https://torrocus.com/) z firmy [Fractal Soft](https://fractalsoft.org/) porówna Ruby do innych języków programowania oraz przedstawi powody, które sprawiają, że wciąż używamy Ruby i budujemy społeczność wokół niego. Ponadto trochę nowości o Ruby 2.4 i o przyszłości języka.
 
 Prosimy o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/234665617/) -- pomoże nam

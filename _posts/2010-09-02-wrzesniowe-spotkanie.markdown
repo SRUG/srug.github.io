@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-Wrześniowe spotkanie [SRUG](http://srug.pl/) odbędzie się **17 września
+Wrześniowe spotkanie [SRUG](https://srug.pl/) odbędzie się **17 września
 2010, o godzinie 19:00** w klubie [Yacht Klub Polski
 Bielsko](http://www.ykpb.pl/), w Bielsku-Białej przy ulicy Szkolnej 15.
 Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza
@@ -15,9 +15,9 @@ liczby miejsc.
 Podczas spotkania przedstawione zostaną trzy prezentacje:
 
 -   **„Podstawy tworzenia aplikacji internetowych z wykorzystaniem YUI3
-    i Rails 3”** — prezentacja [Jakuba Kuźmy](http://jah.pl/) z firmy
+    i Rails 3”** — prezentacja [Jakuba Kuźmy](https://kubakuzma.com/) z firmy
     [Object Reload](http://objectreload.com/) o wykorzystaniu najnowszej
-    wersji bilbioteki [Yahoo! User
+    wersji biblioteki [Yahoo! User
     Interface](http://developer.yahoo.com/yui/3/) do tworzenia aplikacji
     określanych mianem
     [RIA](http://pl.wikipedia.org/wiki/Rich_Internet_Application).

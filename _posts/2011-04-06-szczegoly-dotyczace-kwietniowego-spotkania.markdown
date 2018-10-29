@@ -5,7 +5,7 @@ author: Kuba
 categories: ["article"]
 ---
 
-Kwietniowe spotkanie [SRUG](http://srug.pl/) odbędzie się **16 kwietnia
+Kwietniowe spotkanie [SRUG](https://srug.pl/) odbędzie się **16 kwietnia
 2011, o godzinie 17:00** w restauracji [Stary
 Browar](http://www.starybrowar.gliwice.pl/), w Gliwicach przy ulicy
 Piwnej 1b. Wstęp jak zwykle bezpłatny. Prosimy o wypełnienie formularza

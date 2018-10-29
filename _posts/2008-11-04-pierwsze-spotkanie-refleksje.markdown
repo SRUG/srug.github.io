@@ -5,9 +5,9 @@ author: Wojtek
 categories: ["article"]
 ---
 
-Zachęchamy do podzielenia się własnymi refleksjami — jakie tematy byłyby
-dla Was interesujące na kolejnych spotkaniach, o czym chielibyście
-usłyszeć, co było dla Was niezrozumiałe na dzisiejszejszej prezentacji?
+Zachęcamy do podzielenia się własnymi refleksjami — jakie tematy byłyby
+dla Was interesujące na kolejnych spotkaniach, o czym chcielibyście
+usłyszeć, co było dla Was niezrozumiałe na dzisiejszej prezentacji?
 Komentujcie, [piszcie do nas](mailto:spotkania@srug.pl). Zamieszczamy
 plik z wyświetlonej dzisiaj
-[prezentacji](http://assets.srug.pl/srug1.pdf).
+[prezentacji](/assets/srug1.pdf).

@@ -6,7 +6,7 @@ categories: ["article"]
 ---
 
 Po wydłużonej wakacyjnej przerwie, kolejne spotkanie odbędzie się 25
-listpoada (piątek) w budynku 4 - „Maszynowni”, na terenie „Nowych
+listopada (piątek) w budynku 4 - „Maszynowni”, na terenie „Nowych
 Gliwic”, przy ulicy Bojkowskiej 37. Po prezentacjach przeniesiemy się do
 pobliskiego pubu.
 
