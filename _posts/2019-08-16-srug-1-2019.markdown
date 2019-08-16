@@ -15,10 +15,11 @@ razem spotykamy się we **wtorek, 27&nbsp;sierpnia&nbsp;2019 o godzinie
 
 W trakcie spotkania odbędą się trzy prezentacje:
 
-- **„Building Trees in ActiveRecord for Fun and Profit”** --- [Michał
+- **„Building Trees in Active Record for Fun and Profit”** --- [Michał
   Krzyżanowski](https://github.com/krzyzak) z firmy
   [Toptal](https://www.toptal.com) opowie o budowaniu struktur
-  drzewiastych w oparciu o ActiveRecord.
+  drzewiastych w oparciu o [Active
+  Record](https://guides.rubyonrails.org/active_record_basics.html).
 
 - **„Pattern Matching in Ruby”** --- [Agnieszka
   Matysek](https://womanonrails.com/) z firmy [Fractal
