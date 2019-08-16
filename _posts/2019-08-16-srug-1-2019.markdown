@@ -24,7 +24,8 @@ W trakcie spotkania odbędą się trzy prezentacje:
   Matysek](https://womanonrails.com/) z firmy [Fractal
   Soft](https://fractalsoft.org/) opowie o technice „Pattern
   Matching”, jednej z najważniejszych zmian zaplanowanych w
-  zbliżającym się wielkimi krokami wydaniu Ruby 2.7.
+  zbliżającym się wielkimi krokami wydaniu [Ruby
+  2.7](https://www.ruby-lang.org/en/news/2019/05/30/ruby-2-7-0-preview1-released/).
 
 - **„TBA”***
 
