@@ -6,14 +6,14 @@ categories: ["article"]
 ---
 
 Po długiej, zimowo-wiosennej przerwie, przygotowujemy dla Was pierwsze
-w tym roku rubiowe spotkanie na Śląsku. Spotkanie odbędzie się w
+w tym roku, rubiowe spotkanie na Śląsku. Spotkanie odbędzie się w
 przeniesionym niedawno w nowe miejsce multitapie [Dobry
 Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
 [ul.&nbsp;Zygmunta&nbsp;Starego&nbsp;11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/). Tym
 razem spotykamy się we **wtorek, 27&nbsp;sierpnia&nbsp;2019 o godzinie
 18:00**.
 
-Tym razem zaplanowaliśmy trzy prezentacje:
+W trakcie spotkania odbędą się trzy prezentacje:
 
 - **„Building Trees in ActiveRecord for Fun and Profit”** --- [Michał
   Krzyżanowski](https://github.com/krzyzak) z firmy
