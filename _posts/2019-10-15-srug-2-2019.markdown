@@ -17,8 +17,9 @@ W trakcie spotkania odbędą się trzy prezentacje:
 
 - **„How well-written pull request can help your team to review your
   code?”** --- [Adam Mazur](https://github.com/mazikwyry) z firmy
-  [Exlabs](https://exlabs.co.uk/) opowie o tym, jak usprawnić proces
-  inspekcji kodu (ang. *code review*) w zespole.
+  [Global App Testing](https://www.globalapptesting.com/) opowie o
+  tym, jak usprawnić proces inspekcji kodu (ang. *code review*) w
+  zespole.
 
 - **„Gathering data from Jira using webhook consumer”** --- [Tomasz
   Baraniecki](https://github.com/tbaraniecki) z firmy
