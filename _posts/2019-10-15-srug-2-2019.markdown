@@ -36,7 +36,7 @@ W trakcie spotkania odbędą się trzy prezentacje:
   [Vue.js](https://vuejs.org/) czy [React](https://pl.reactjs.org/).
 
 Prosimy również o wypełnienie RSVP w serwisie
-[meetup](https://www.meetup.com/srugpl/events/id/) -- pomoże
+[meetup](https://www.meetup.com/srugpl/events/265681874/) -- pomoże
 nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
 dla wszystkich chętnych. Podczas tego spotkania sponsorem napojów dla
 uczestników będzie firma:
