@@ -1,0 +1,46 @@
+---
+layout: post
+title: SRUG 2.2019
+author: Kuba
+categories: ["article"]
+---
+
+Jesień już w pełni, a my przygotowujemy się do kolejnego, już drugiego
+w tym roku, rubiowego spotkania na Śląsku. Spotkanie odbędzie się w
+multitapie [Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w
+Gliwicach, przy
+[ul.&nbsp;Zygmunta&nbsp;Starego&nbsp;11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/). Tym
+razem spotykamy się we **wtorek, 29&nbsp;października&nbsp;2019 o godzinie
+18:00**.
+
+W trakcie spotkania odbędą się trzy prezentacje:
+
+- **„How well-written pull request can help your team to review your
+  code?”** --- [Adam Mazur](https://github.com/mazikwyry) z firmy
+  [Exlabs](https://exlabs.co.uk/) opowie o tym, jak usprawnić proces
+  inspekcji kodu (ang. *code review*) w zespole.
+
+- **„Gathering data from Jira using webhook consumer”** --- [Tomasz
+  Baraniecki](https://github.com/tbaraniecki) z firmy
+  [Netguru](https://www.netguru.com/) opowie o wykorzystaniu
+  [webhook-ów](https://en.wikipedia.org/wiki/Webhook) do komunikacji z
+  popularną [Jirą](https://www.atlassian.com/pl/software/jira).
+
+- **„I don't always make SPAs, but when I do, I do them Rails Way™”**
+  --- [Jakub Kuźma](https://github.com/qoobaa) z firmy
+  [Triage](https://www.triage.com/) opowie o tym, że chęć zapewnienia
+  użytkownikom naszych aplikacji najlepszych doznań, nie zawsze musi
+  się wiązać z koniecznością wykorzystania technologii takich jak
+  [REST](https://pl.wikipedia.org/wiki/Representational_state_transfer),
+  [GraphQL](https://en.wikipedia.org/wiki/GraphQL),
+  [Vue.js](https://vuejs.org/) czy [React](https://pl.reactjs.org/).
+
+Prosimy również o wypełnienie RSVP w serwisie
+[meetup](https://www.meetup.com/srugpl/events/id/) -- pomoże
+nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
+dla wszystkich chętnych. Podczas tego spotkania sponsorem napojów dla
+uczestników będzie firma:
+
+<div class="text-center"><a href="http://netguru.com" target="_blank"><img src="data:image/png;base64,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"></a></div>
+
+**Dziękujemy i do zobaczenia!**
