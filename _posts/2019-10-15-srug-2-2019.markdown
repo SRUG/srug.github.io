@@ -27,7 +27,7 @@ W trakcie spotkania odbędą się trzy prezentacje:
   [webhook-ów](https://en.wikipedia.org/wiki/Webhook) do komunikacji z
   popularną [Jirą](https://www.atlassian.com/pl/software/jira).
 
-- **„I don't always make SPAs, but when I do, I do them Rails Way™”**
+- **„I don't always make SPAs, but when I do, I prefer Rails Way™”**
   --- [Jakub Kuźma](https://github.com/qoobaa) z firmy
   [Triage](https://www.triage.com/) opowie o tym, że chęć zapewnienia
   użytkownikom naszych aplikacji najlepszych doznań, nie zawsze musi
