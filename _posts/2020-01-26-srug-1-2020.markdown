@@ -1,0 +1,42 @@
+---
+layout: post
+title: SRUG 1.2020
+author: Kuba
+categories: ["article"]
+---
+
+Niezmiernie miło nam poinformować, że już niebawem odbędzie się
+pierwsze wiosenne spotkanie tej zimy. Zapraszamy wszystkich
+entuzjastów języka Ruby do multitapu [Dobry
+Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
+[ul.&nbsp;Zygmunta&nbsp;Starego&nbsp;11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/). Tym
+razem spotykamy się we **wtorek, 11&nbsp;lutego&nbsp;2020 o godzinie
+18:00**.
+
+W trakcie spotkania zaplanowaliśmy czas na trzy prezentacje:
+
+- **„Postgres: Useful Tips”** --- [Michał
+  Krzyżanowski](https://github.com/krzyzak) z firmy
+  [Toptal](https://www.toptal.com) podzieli się technikami, jakie
+  wykorzystuje do pracy z [Postgresem](https://www.postgresql.org/).
+
+- **„Designer and Developer - One Goal, Different Paths”** --- [Piotr
+  Żmudziński](https://github.com/pzmudzinski) z firmy
+  [Kunai](https://kun.ai) opowie o meandrach współpracy na linii
+  programista-designer, rozbieżnościach powstających ze względu na
+  inny sposób myślenia, inny język (nie tylko programowania) czy
+  używane narzędzia, podpowie jak ją naprawić.
+
+- **„TBA”** --- jeśli masz ochotę coś zaprezentować podczas
+  nadchodzącego spotkania, to prosimy o
+  [kontakt](mailto:spotkania@srug.pl).
+
+Prosimy również o wypełnienie RSVP w serwisie
+[meetup](https://www.meetup.com/srugpl/events/:id/) -- pomoże
+nam to oszacować liczbę osób, przygotować miejsca i kupony na napoje
+dla wszystkich chętnych. Podczas tego spotkania sponsorem napojów dla
+uczestników będzie firma:
+
+<div class="text-center"><a href="https://codesthq.com/" target="_blank"><img src="data:image/png;base64,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"></a></div>
+
+**Dziękujemy i do zobaczenia!**
