@@ -18,7 +18,9 @@ W trakcie spotkania zaplanowaliśmy czas na trzy prezentacje:
 - **„Postgres: Useful Tips”** --- [Michał
   Krzyżanowski](https://github.com/krzyzak) z firmy
   [Toptal](https://www.toptal.com) podzieli się technikami, jakie
-  wykorzystuje do pracy z [Postgresem](https://www.postgresql.org/).
+  wykorzystuje do pracy z [Postgresem](https://www.postgresql.org/) i
+  pokaże jak skorzystać z nich w
+  [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html).
 
 - **„Designer and Developer - One Goal, Different Paths”** --- [Piotr
   Żmudziński](https://github.com/pzmudzinski) z firmy
