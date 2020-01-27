@@ -29,9 +29,11 @@ W trakcie spotkania zaplanowaliśmy czas na trzy prezentacje:
   inny sposób myślenia, inny język (nie tylko programowania) czy
   używane narzędzia, podpowie jak ją naprawić.
 
-- **„TBA”** --- jeśli masz ochotę coś zaprezentować podczas
-  nadchodzącego spotkania, to prosimy o
-  [kontakt](mailto:spotkania@srug.pl).
+- **„Occupational Burnout Syndrome - How to still feel passion, even
+  after years of programming?”** --- [Agnieszka
+  Małaszkiewicz](https://womanonrails.com/pl/) z firmy [Fractal
+  Soft](https://fractalsoft.org/pl) opowie o tym czym jest syndrom
+  wypalenia zawodowego i jak można sobie z nim radzić.
 
 Prosimy również o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/268215956/) -- pomoże
