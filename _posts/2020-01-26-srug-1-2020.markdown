@@ -7,11 +7,11 @@ categories: ["article"]
 
 Niezmiernie miło nam poinformować, że już niebawem odbędzie się
 pierwsze wiosenne spotkanie tej zimy. Zapraszamy wszystkich
-entuzjastów języka Ruby do multitapu [Dobry
-Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach, przy
-[ul.&nbsp;Zygmunta&nbsp;Starego&nbsp;11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/). Tym
-razem spotykamy się we **wtorek, 11&nbsp;lutego&nbsp;2020 o godzinie
-18:00**.
+entuzjastów języka Ruby do multitapu [Beer
+Brothers](https://www.facebook.com/pages/category/Beer-Bar/Beer-Brothers-100324048054878/)
+w Gliwicach, przy [ul.&nbsp;Górnych Wałów
+30](https://g.page/beer-brothers-gliwice). Tym razem spotykamy się we
+**wtorek, 11&nbsp;lutego&nbsp;2020 o godzinie 18:00**.
 
 W trakcie spotkania zaplanowaliśmy czas na trzy prezentacje:
 
