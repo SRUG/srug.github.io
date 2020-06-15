@@ -12,7 +12,7 @@ Ciebie świetną wiadomość!
 
 W dniach 18-19 lipca 2020 odbędzie się kolejna, szósta edycja
 [RubyConfBY](https://rubyconference.by/). Aby wziąć w niej udział w
-tym roku nie będziecie potrzebować wizy, bo cała **konferencja
+tym roku nie bedziesz potrzebować wizy, bo cała **konferencja
 odbędzie się on-line**. Prezentującymi będą m.in. Piotr Solnica, Noah
 Gibbs, Tetiana Chupryna, Vitaly Pushkar i wielu innych.
 
