@@ -4,5 +4,5 @@ To run locally:
 
 ```
 bundle install
-jekyll serve --watch
+jekyll serve --livereload
 ```
