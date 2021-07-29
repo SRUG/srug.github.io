@@ -3,7 +3,6 @@ layout: post
 title: SRUG 1.2021
 author: Kuba
 categories: ["article"]
-published: false
 ---
 
 Po ponad rocznej przerwie spotykamy się ponownie! Spotkanie odbędzie
