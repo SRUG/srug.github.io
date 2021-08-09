@@ -11,13 +11,19 @@ multitapie [Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w
 Gliwicach przy
 [ul.&nbsp;Zygmunta&nbsp;Starego&nbsp;11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/).
 
-Zachęcam do kontaktu osoby, które chciałyby coś zaprezentować podczas
-spotkania. Na chwilę obecną zgłoszona została jedna prezentacja:
+Zachęcamy do kontaktu osoby, które chciałyby coś zaprezentować.
 
-- **“How to focus?”** --- [Agnieszka
-  Małaszkiewicz](https://womanonrails.com/pl/) z firmy [Fractal
-  Soft](https://fractalsoft.org/pl) opowie o tym jak skupić się na
-  pracy w świecie, w którym wszystko na około nas rozprasza.
+- **“How to focus?”** ---
+  [Agnieszka Małaszkiewicz](https://womanonrails.com/pl/)
+  z firmy [Fractal Soft](https://fractalsoft.org/pl)
+  opowie o tym jak skupić się na pracy w świecie,
+  w którym wszystko na około nas rozprasza.
+
+- **"Zero downtime migrations in Rails"** ---
+  [Alek Małaszkiewicz](https://torrocus.com)
+  z firmy [Fractal Soft](https://fractalsoft.org)
+  pokaże jak zminimalizować ryzyko przestoju podczas deploymentu
+  aplikacji z powodu migracji dla dużej liczby danych w tabeli.
 
 Prosimy również o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/279776580/) -- pomoże
