@@ -18,8 +18,11 @@ pory zgłoszone zostały następujące prezentacje:
   opowie o [Hotwire](https://hotwired.dev/) i innych nowościach
   zawartych w siódmej wersji Rails
 
-- **“TBA”** --- lista prezentacji zostanie uzupełniona w najbliższych
-  dniach
+- **"How to deal with flaky tests?"** ---
+  [Alek Małaszkiewicz](https://torrocus.com)
+  z firmy [Fractal Soft](https://fractalsoft.org)
+  pokaże jaką można mieć super zabawę z losowo nieprzechodzącymi testami.
+  Przypadki wzięte prosto z projektu.
 
 Prosimy również o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/287592952/) -- pomoże
