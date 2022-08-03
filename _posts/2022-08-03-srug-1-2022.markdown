@@ -1,0 +1,28 @@
+---
+layout: post
+title: SRUG 1.2022
+author: Kuba
+categories: ["article"]
+---
+
+Po prawie rocznej przerwie spotykamy się ponownie! Kolejne spotkanie
+odbędzie się w **środę, 24&nbsp;sierpnia&nbsp;2021 o godzinie 18:00**,
+w multitapie [Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w
+Gliwicach przy
+[ul.&nbsp;Zygmunta&nbsp;Starego&nbsp;11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/).
+
+Zachęcamy do kontaktu osoby, które chciałyby coś zaprezentować. Do tej
+pory zgłoszone zostały następujące prezentacje:
+
+- **“Hotwire”** --- [Michał Krzyżanowski](https://github.com/krzyzak)
+  opowie o [Hotwire](https://hotwired.dev/) i innych nowościach
+  zawartych w siódmej wersji Rails
+
+- **“TBA”** --- lista prezentacji zostanie uzupełniona w najbliższych
+  dniach
+
+Prosimy również o wypełnienie RSVP w serwisie
+[meetup](https://www.meetup.com/srugpl/events/…/) -- pomoże
+nam to oszacować liczbę osób.
+
+**Dziękujemy i do zobaczenia!**
