@@ -24,6 +24,11 @@ pory zgłoszone zostały następujące prezentacje:
   pokaże jaką można mieć super zabawę z losowo nieprzechodzącymi testami.
   Przypadki wzięte prosto z projektu.
 
+- **"Ruby map(&:method) syntax"** _(Lightning talk)_ ---
+  [Agnieszka Małaszkiewicz](https://womanonrails.com/pl/)
+  z firmy [Fractal Soft](https://fractalsoft.org/pl)
+  opowie o ciekawych użyciach metody `map` w Ruby i nie tylko ;)
+
 Prosimy również o wypełnienie RSVP w serwisie
 [meetup](https://www.meetup.com/srugpl/events/287592952/) -- pomoże
 nam to oszacować liczbę osób.
