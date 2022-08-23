@@ -14,6 +14,11 @@ Gliwicach przy
 Zachęcamy do kontaktu osoby, które chciałyby coś zaprezentować. Do tej
 pory zgłoszone zostały następujące prezentacje:
 
+- **Poukładajmy Twoje Railsy wg domen** ---
+  [Andrzej Krzywda](https://github.com/andrzejkrzywda) - miłośnik Ruby od 2004 roku,
+  założyciel [Arkency](https://arkency.com/) - uzdrawiamy Railsowe projekty za pomocą Domain Driven Design.
+  Współorganizator [wroclove.rb](https://wrocloverb.com/) i aktywny uczestnik DRUG opowie o DDD jako brakującej architekturze w dużych aplikacjach Railsowych
+
 - **“Hotwire”** --- [Michał Krzyżanowski](https://github.com/krzyzak)
   opowie o [Hotwire](https://hotwired.dev/) i innych nowościach
   zawartych w siódmej wersji Rails
