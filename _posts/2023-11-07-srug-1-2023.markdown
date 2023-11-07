@@ -1,0 +1,49 @@
+---
+layout: post
+title: SRUG 1.2023
+author: Alek
+categories: ["article"]
+---
+
+Nasze spotkania cechują się wyjątkową regularnością.
+🤣
+Po rocznej przerwie ustaliliśmy datę kolejnego wydarzenia!
+Tym razem odwiedzą nas prelegenci spoza Śląska,
+a więc przygotujcie się na nowe twarze.
+🎉
+
+Najbliższe spotkanie odbędzie się w **środę, 29 listopada 2023 o godzinie 18:00**,
+w multitapie [Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach przy
+[ul. Zygmunta Starego 11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/).
+
+Zachęcamy osoby, które chciałyby coś zaprezentować na kolejnych wydarzeniach
+do kontaktu już teraz.
+Oto prezentacje, które czekają na Was:
+
+- **"Jak dobre są nasze testy?"** ---
+  [Tobiasz Waszak](https://github.com/tobiaszwaszak) z Wrocławia zrobi
+  krótkie wprowadzenie do testów mutacyjnych w Ruby.
+  💎
+  Tobiasz znany jest z podcastu [Ruby po polsku](https://www.rubypopolsku.pl/).
+
+- **"Ever Shorter Feedback Loop"** ---
+  [Krzysztof Hasiński](https://github.com/khasinski) z Poznania opowie
+  o developer experience i optymalizacji testów.
+  🧑‍💻️
+  Chris znany jest z konferencji takich jak
+  [Wroclove.rb](https://wrocloverb.com/) oraz [Euruko](https://euruko.org/).
+
+- **"Project-Hunting Ruby Developer"** ---
+  [Alek Małaszkiewicz](https://torrocus.com)
+  poszukuje projektu dla siebie oraz [swojego zespołu](https://fractalsoft.org/team)
+  🕵
+  i przedstawi swoje subiektywne spojrzenie na bieżący rynek pracy w Ruby.
+  Alek jest stałym bywalcem spotkań i z chęcią podzieli się swoimi przemyśleniami,
+  doświadczeniami oraz poprowadzi otwartą dyskusję.
+
+**Uwaga:**
+Nie mamy sponsora tego wydarzenia.
+💸
+Wierzymy jednak, że najważniejsza jest wartość merytoryczna spotkania.
+
+**Dziękujemy i do zobaczenia!**
