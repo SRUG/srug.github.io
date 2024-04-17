@@ -43,7 +43,7 @@ Nie mamy sponsora tego wydarzenia.
 💸
 Wierzymy jednak, że najważniejsza jest wartość merytoryczna spotkania.
 
-Będziemy Was jeszcze prosić o potwierdzenie uczestnictwa.
-Tak więc zaglądajcie tu jeszcze.
+Zaloguj się na GitHuba i potwierdź swoje uczestnictwo
+w [krótkiej ankiecie](https://github.com/SRUG/srug.github.io/discussions/6).
 
 **Dziękujemy i do zobaczenia!**
