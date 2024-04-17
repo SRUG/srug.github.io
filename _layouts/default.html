@@ -8,6 +8,19 @@
     <meta name="author" content="{{ site.author.name }}">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    <meta property="og:image" content="{{ 'img/srug.png' | absolute_url }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="srug.pl">
+    <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    <meta name="twitter:image" content="{{ 'img/srug.png' | absolute_url }}">
+
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/fontawesome.css" rel="stylesheet">
     <link href="/css/application.css" rel="stylesheet">
