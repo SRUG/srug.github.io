@@ -8,7 +8,7 @@ categories: ["article"]
 W zeszły weekend byliśmy na konferencji [wroclove.rb](https://wrocloverb.com/)
 i wiecie jakie pytanie padało najczęściej?
 
-## Kiedy będzie SRUG? 💎
+### Kiedy będzie SRUG? 💎
 
 My też się stęskniliśmy, dlatego trzeba kuć żelazo póki gorące.
 🔥
