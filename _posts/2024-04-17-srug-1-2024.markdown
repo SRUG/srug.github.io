@@ -1,0 +1,49 @@
+---
+layout: post
+title: SRUG 1.2024
+author: Alek
+categories: ["article"]
+---
+
+W zeszły weekend byliśmy na konferencji [wroclove.rb](https://wrocloverb.com/)
+i wiecie jakie pytanie padało najczęściej?
+
+## Kiedy będzie SRUG? 💎
+
+My też się stęskniliśmy, dlatego trzeba kuć żelazo póki gorące.
+🔥
+Już podczas **Wroclove.rb** szukaliśmy nowych twarzy, które u nas wystąpią.
+Wszak ileż można patrzeć na te same osoby na scenie.
+I co najważniejsze udało się!
+🎉
+
+Spotkanie odbędzie się we **wtorek, 14 maja 2024 o godzinie 18:00**.
+Miejsce jeszcze potwierdzimy, ale najprawdopodobniej tam gdzie zwykle,
+czyli w multitapie [Dobry Zbeer](https://www.facebook.com/DobryZbeer/)
+w Gliwicach przy [ul. Zygmunta Starego 11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/).
+
+Zachęcamy osoby, które chciałyby coś zaprezentować na kolejnych wydarzeniach
+do kontaktu wcześniej.
+Pozwoli nam to planować z wyprzedzeniem i zwiększyć częstotliwość spotkań.
+
+Oto prezentacje, które czekają na Was tym razem:
+
+- **"WebMock unmocked"** ---
+  [Bartosz Blimke](https://github.com/bblimke) przyjedzie z Warszawy
+  i opowie historię WebMocka - bibliteki, którą prawie każdy używa w projekcie.
+  🕸️
+
+- **"Kamal - pierwsze produkcyjne wrażenia"** ---
+  [Wojciech Wnętrzak](https://github.com/morgoth) to stały bywalec SRUG-ów
+  i wprowadzi nas w meandry Kamal-a.
+  🧭
+
+**Uwaga:**
+Nie mamy sponsora tego wydarzenia.
+💸
+Wierzymy jednak, że najważniejsza jest wartość merytoryczna spotkania.
+
+Będziemy Was jeszcze prosić o potwierdzenie uczestnictwa.
+Tak więc zaglądajcie tu jeszcze.
+
+**Dziękujemy i do zobaczenia!**
