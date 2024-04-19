@@ -37,6 +37,11 @@ Oto prezentacje, które czekają na Was tym razem:
   i wprowadzi nas w meandry Kamal-a.
   🧭
 
+- **"Sorbet i typy w Ruby"** ---
+  [Tobiasz Waszak](https://github.com/tobiaszwaszak) z Wrocławia zrobi
+  wprowadzenie do Sorbetu - statycznego typowania w Ruby.
+  🍧
+
 **Uwaga:**
 Nie mamy sponsora tego wydarzenia.
 💸
