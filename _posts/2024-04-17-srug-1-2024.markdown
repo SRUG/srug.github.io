@@ -50,4 +50,7 @@ Wierzymy jednak, że najważniejsza jest wartość merytoryczna spotkania.
 Zaloguj się na GitHuba i potwierdź swoje uczestnictwo
 w [krótkiej ankiecie](https://github.com/SRUG/srug.github.io/discussions/6).
 
+Podczas spotkania sponsorem napojów dla uczestników będzie firma:
+[![Tiramizoo](/img/sponsors/tiramizoo.svg)](https://tiramizoo.com/)
+
 **Dziękujemy i do zobaczenia!**
