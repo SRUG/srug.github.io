@@ -32,10 +32,12 @@ Oto prezentacje, które czekają na Was tym razem:
   i opowie historię WebMocka - bibliteki, którą prawie każdy używa w projekcie.
   🕸️
 
-- **"Kamal - pierwsze produkcyjne wrażenia"** ---
+<!-- markdownlint-disable-next-line line-length -->
+- [**"Kamal - pierwsze produkcyjne wrażenia"**](https://wnetrzak.pl/assets/presentations/kamal-srug-14-05-2024.pdf) ---
   [Wojciech Wnętrzak](https://github.com/morgoth) to stały bywalec SRUG-ów
   i wprowadzi nas w meandry Kamal-a.
   🧭
+  Kamal był wcześniej znany jako MRSK.
 
 - **"Sorbet i typy w Ruby"** ---
   [Tobiasz Waszak](https://github.com/tobiaszwaszak) z Wrocławia zrobi
