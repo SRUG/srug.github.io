@@ -20,7 +20,7 @@ ale jest doświadczone, serdeczne i... uparte, żeby dalej działać.
 Tym razem czekają na Was dwie prezentacje:
 
 - **"From play to code: helping kids develop a programmer’s mindset"** —
-  Michał Krzyżak opowie o tym, jak wspierać dzieciaki w naturalnym wejściu w świat programowania.
+  Michał Krzyżanowski opowie o tym, jak wspierać dzieciaki w naturalnym wejściu w świat programowania.
 
 - **"Archetypes of code reviews"** —
   Michał Szyndel przyjedzie do nas z daleka i przedstawi swoje spojrzenie na code review.
