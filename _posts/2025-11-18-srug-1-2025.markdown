@@ -1,0 +1,36 @@
+---
+layout: post
+title: SRUG 1.2025
+author: Alek
+categories: ["article"]
+---
+
+AI tu, AI tam. Wszędzie to AI.
+Może i jest przydatne, ale **SRUG-a za nas nie zorganizuje.**
+🤣
+
+Po *kolejnej* rocznej przerwie wracamy do żywych!
+Spotkajmy się we **wtorek, 25 listopada 2025 o godzinie 18:00**,
+w multitapie [Dobry Zbeer](https://www.facebook.com/DobryZbeer/) w Gliwicach przy
+[ul. Zygmunta Starego 11a](https://www.google.com/maps/place/Zygmunta+Starego+11a,+44-100+Gliwice/).
+
+Ruby community na Śląsku może nie jest duże,
+ale jest doświadczone, serdeczne i... uparte, żeby dalej działać.
+
+Tym razem czekają na Was dwie prezentacje:
+
+- **"From play to code: helping kids develop a programmer’s mindset"** —
+  Michał Krzyżak opowie o tym, jak wspierać dzieciaki w naturalnym wejściu w świat programowania.
+
+- **"Archetypes of code reviews"** —
+  Michał Szyndel przyjedzie do nas z daleka i przedstawi swoje spojrzenie na code review.
+
+Jak zawsze, **lightning talki** też będą.
+Śmiało zgłaszajcie się przed spotkaniem lub na miejscu.
+
+**Uwaga:**
+Nie mamy sponsora tego wydarzenia 💸
+
+Ale kto by się tym przejmował — najważniejsza jest wartość merytoryczna i spotkanie w dobrym gronie.
+
+**Do zobaczenia na miejscu!**
